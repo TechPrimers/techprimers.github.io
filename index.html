@@ -122,7 +122,7 @@
         repos = repos || [];
         page = page || 1;
 
-        var uri = "https://api.github.com/users/techprimers/repos;
+        var uri = "https://api.github.com/users/techprimers/repos";
 
         $.getJSON(uri, function (result) {
           if (result.data && result.data.length > 0) {
