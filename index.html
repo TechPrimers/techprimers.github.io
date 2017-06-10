@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-  <head>
+<head>
     <title>TechPrimers &hearts; Open Source</title>
     <link rel="stylesheet" type="text/css" href="assets/reset.css">
     <link rel="stylesheet" type="text/css" href="assets/grid.css">
@@ -12,38 +12,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A listing of open source examples from TechPrimers.">
 
-  </head>
-  <body>
-    <div id="wrapper" class="grid clearfix">
-      <div id="main" class="grid-1">
+</head>
+<body>
+<div id="wrapper" class="grid clearfix">
+    <div id="main" class="grid-1">
         <div id="logo"><h1>TechPrimers Open Source</h1></div>
         <h1>All TechPrimers examples are open sourced.</h1>
         <p>Want to know latest updates? <a href="https://twitter.com/TechPrimers">Follow us on Twitter</a></p>
         <p>More about <a href="https://www.youtube.com/TechPrimers">TechPrimers</a></p>
 
-      </div>
+    </div>
 
-      <div class="grid grid-3">
+    <div class="grid grid-3">
         <div id="statistics" class="grid-1 alpha header">
-          <h1>Statistics</h1>
-          <p>
-            <a href="https://github.com/TechPrimers/repositories"><span id="num-repos"><img src="assets/spinner.gif" /></span> public repos</a>
-          </p>
-          <p class="email"><a href="mailto:movingtoweb@gmail.com">movingtoweb@gmail.com</a></p>
+            <h1>Statistics</h1>
+            <p>
+                <a href="https://github.com/TechPrimers/repositories"><span id="num-repos"><img
+                        src="assets/spinner.gif"/></span> public repos</a>
+            </p>
+            <p class="email"><a href="mailto:movingtoweb@gmail.com">movingtoweb@gmail.com</a></p>
         </div>
 
         <div id="recently-updated" class="grid-2 omega header">
-          <h1>Recently updated <a href="https://github.com/TechPrimers/repositories">View All on GitHub</a></h1>
-          <ol id="recently-updated-repos"></ol>
+            <h1>Recently updated <a href="https://github.com/TechPrimers/repositories">View All on GitHub</a></h1>
+            <ol id="recently-updated-repos"></ol>
         </div>
-      </div>
-
-      <ol id="repos"></ol>
     </div>
 
-    <script type="text/javascript" src="assets/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="assets/strftime.js"></script>
-    <script type="text/javascript">
+    <ol id="repos"></ol>
+</div>
+
+<script type="text/javascript" src="assets/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="assets/strftime.js"></script>
+<script type="text/javascript">
     (function ($, undefined) {
 
       // Put custom repo URL's in this object, keyed by repo name.
@@ -125,7 +126,6 @@
         var uri = "https://api.github.com/users/techprimers/repos";
 
         $.getJSON(uri, function (result) {
-          if (result.data && result.data.length > 0) {
             repos = repos.concat(result.data);
             $(function () {
               $("#num-repos").text(repos.length);
@@ -168,7 +168,6 @@
                 addRecentlyUpdatedRepo(repo);
               });
             });
-          }
         });
       }
       addRepos();
@@ -259,6 +258,7 @@
         });
       }
     })(jQuery);
-    </script>
-  </body>
+
+</script>
+</body>
 </html>
