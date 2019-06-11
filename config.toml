@@ -1,4 +1,4 @@
-baseURL = "https://techprimers.github.io"
+baseURL = "https://techprimers.github.io/public"
 languageCode = "en-us"
 title = "TechPrimers Open Source"
 theme = "pulp"
