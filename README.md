@@ -1,9 +1,9 @@
-# TechPrimers Community
+# TechPrimers Open Source
 
-This repository is the source code of https://techprimers.github.io/
+This repository is the source code of https://techprimers.github.io/public
 
 This is a opensource repository which you can fork.
-Raise a Pull Request by adding your name to get featured in https://techprimers.github.io
+Raise a Pull Request by adding your name to get featured in https://techprimers.github.io/public/contributors/
 
 Youtube video on [Hugo Example](https://www.youtube.com/watch?v=yjdJGhV6gbg)
 
@@ -35,3 +35,4 @@ Run the `hugo` command to create static files under `public/` folder.
 cd techprimers-repo
 hugo
 ```
+Commit the "public" folder along with your markdown file and raise a pull request.
