@@ -16,6 +16,9 @@ git submodule init
 git submodule update
 ```
 
+## Add your name
+Add your name with a new markdown file under `/content/contributors/` folder along with content similar to `ajaykumars.md` file.
+
 ## Install Hugo
 You need [hugo](https://gohugo.io/) to create the Static HTML files based on the markdown files(*.md) which we have created.
 Steps for installing hugo can be followed from [here](https://gohugo.io/getting-started/installing/)
