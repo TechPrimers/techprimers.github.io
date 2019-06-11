@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechPrimers Open Source</title>
+    <link>https://techprimers.github.io/</link>
+    <description>Recent content on TechPrimers Open Source</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://techprimers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajay Kumar S</title>
+      <link>https://techprimers.github.io/contributors/ajaykumars/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/contributors/ajaykumars/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.
+Since then I have learnt, written and shared lots of code in Github. This repository/github page is dedicated to you all. If you have not contributed to Open Source before, then this is your chance to contribute.</description>
+    </item>
+    
+  </channel>
+</rss>
