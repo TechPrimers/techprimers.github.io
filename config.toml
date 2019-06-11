@@ -1,0 +1,73 @@
+baseURL = "https://techprimers.github.io"
+languageCode = "en-us"
+title = "TechPrimers Open Source"
+theme = "pulp"
+
+[taxonomies]
+  series = "series"
+
+[params]
+    author = "TechPrimers"
+    avatar = "logo.jpeg"
+    favicon = "favicon.ico"
+    description = """
+        Welcome to the TechPrimers Open Source Community.
+        Click on the "edit" icon below to see contributors list. Fork the repo and check the README.md
+    """
+    publicationYear = "2019"
+
+[outputs]
+    section = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "contributors"
+    pre = "<i class='fa fa-edit fa-lg'></i>"
+    url = "./contributors"
+    weight = 1
+
+[[menu.main]]
+    identifier = "blog"
+    pre = "<i class='fa fa-book-open fa-lg'></i>"
+    url = "https://medium.com/TechPrimers"
+    weight = 10
+
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/TechPrimers"
+    weight = 20
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/TechPrimers"
+    weight = 30
+
+[[menu.main]]
+    identifier = "facebook"
+    # name = "Facebook"
+    pre = "<i class='fab fa-facebook fa-lg'></i>"
+    url = "https://www.facebook.com/TechPrimers"
+    weight = 31
+
+[[menu.main]]
+    identifier = "youtube"
+    # name = "Youtube"
+    pre = "<i class='fab fa-youtube fa-lg'></i>"
+    url = "https://www.youtube.com/TechPrimers"
+    weight = 32
+[[menu.main]]
+    identifier = "instagram"
+    # name = "Instagram"
+    pre = "<i class='fab fa-instagram fa-lg'></i>"
+    url = "https://www.instagram.com/TechPrimers"
+    weight = 33
+
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:info@techprimers.com"
+    weight = 40
