@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/techprimers/techprimers.github.io.svg)](https://github.com/techprimers/techprimers.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/techprimers/techprimers.github.io.svg)](https://github.com/techprimers/techprimers.github.io/network)
 [![GitHub issues](https://img.shields.io/github/issues/techprimers/techprimers.github.io.svg)](https://github.com/techprimers/techprimers.github.io/issues?q=is%3Aissue+is%3Aopen)
+[![Contributors](https://img.shields.io/github/contributors/techprimers/techprimers.github.io.svg)](https://github.com/techprimers/techprimers.github.io/graphs/contributors)
 
 This repository is the source code of https://techprimers.github.io/public
 
@@ -47,7 +48,4 @@ Run the `hugo` command to create static files under `public/` folder.
 cd techprimers-repo
 hugo
 ```
-Commit the "public" folder along with your markdown file and raise a pull request.
-
-## Contributors
-<a href="https://github.com/TechPrimers/techprimers.github.io/graphs/contributors"><img src="https://opencollective.com/shields/contributors.svg?width=890" /></a>
+Commit the `public` folder along with your markdown file and raise a pull request.
