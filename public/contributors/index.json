@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/spike/",
+        "title": "Spike",
+        "section": "contributors",
+        "date" : "2019.06.14",
+        "body": " About me Hello All,\nThis is the Spike commit for the Open Source Contribution demo.\nCheers!\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/subhashsahu/",
         "title": "Subhash Sahu",
         "section": "contributors",
