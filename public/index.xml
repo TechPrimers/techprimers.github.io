@@ -6,10 +6,24 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Subhash Sahu</title>
+      <link>https://techprimers.github.io/public/contributors/subhashsahu/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/subhashsahu/</guid>
+      <description>About me Hi,
+I am Subhash Sahu.
+I&amp;rsquo;m certified Cloud Engineer having skill set in Cloud,Java,Node JS,Angular,CI/CD,Codeigniter.
+If you are interested here is my profile.
+You can find me at
+ LinkedIn Github  Cheers!</description>
+    </item>
     
     <item>
       <title>Ankur Goel</title>
