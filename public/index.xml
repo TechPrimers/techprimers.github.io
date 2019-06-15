@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anil Kumar Katta</title>
+      <link>https://techprimers.github.io/public/contributors/anilkumarkatta/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/anilkumarkatta/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Anil Kumar Katta.
+I&amp;rsquo;m a senior software developer with 13+ years of IT industry experience, worked on various enterprise applications.
+You can find me at
+ LinkedIn Github Gmail  Cheers!</description>
+    </item>
     
     <item>
       <title>Subhash Sahu</title>
