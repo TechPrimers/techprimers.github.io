@@ -4,7 +4,7 @@
         "title": "Muskan B",
         "section": "contributors",
         "date" : "2019.06.26",
-        "body": " About me Hello All,\nI m Muskan!\nThis is my first contribution to Open Source project.\nKeep learning and keep coding !!\n"
+        "body": " About me Hi All,\nI m Muskan!\nThis is my first contribution to Open Source project.\nKeep learning and keep coding !!\n"
     }
 ,
     {
@@ -13,6 +13,14 @@
         "section": "contributors",
         "date" : "2019.06.17",
         "body": " About me Hi All,\nI\u0026rsquo;m Vengatesan, a full stack developer(SpringBoot, Microservices, DevOps \u0026amp; Angular). I have 2 years of experience on end to end application development and also I\u0026rsquo;m more interested to do system architectural design.\nWhen I\u0026rsquo;m exploring new tools and technology , I learned by self interested and then do it from scratch. And If I\u0026rsquo;m doing some POC on particular technology or concepts, TechPrimers one of all other tech community helps me to understand it in different perspective view, Thanks for that.\nThis is the first time for me to contribute in open source. I think this platform will helps everyone to Feel the Power of Open Source\u0026hellip;\nYou can find me at\n Github Gmail  once again Feel the Power of Open Source , stay tuned !\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/vikramshanbogar/",
+        "title": "Vikram Shanbogar",
+        "section": "contributors",
+        "date" : "2019.06.17",
+        "body": " Hello All MySelf Vikram Working as a software engineer residing Bangalore. This is going to be my first open source contribution, Its a very good start, Thank you TechPrimers.\n"
     }
 ,
     {
@@ -84,6 +92,6 @@
         "title": "",
         "section": "contributors",
         "date" : "0001.01.01",
-        "body": "\rtitle: \"Virendra Yadav\"\rdate: 2019-06-17\rdraft: false\r---\r## About me\rHello All,\rMyself Virendra Yadav,\rI am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps \u0026 IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies. You can find me at\r- [*LinkedIn*](https://www.linkedin.com/in/yadav-viren/)\r- [*Github*](https://github.com/virendrayadav)\r- [*Blog*](https://virendrayadav.co/)\r- [*Gmail*](mailto:virendra.yadav1@gmail.com)\rCheers!\r"
+        "body": " title: \"Virendra Yadav\" date: 2019-06-17 draft: false --- ## About me Hello All, Myself Virendra Yadav, I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps \u0026 IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies. You can find me at - [*LinkedIn*](https://www.linkedin.com/in/yadav-viren/) - [*Github*](https://github.com/virendrayadav) - [*Blog*](https://virendrayadav.co/) - [*Gmail*](mailto:virendra.yadav1@gmail.com) Cheers! "
     }
 ]
