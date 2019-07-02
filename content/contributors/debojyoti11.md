@@ -1,6 +1,6 @@
 ---
 title: "Debojyoti Paul"
-date: 2019-07-1
+date: 2019-07-01
 draft: false
 ---
 

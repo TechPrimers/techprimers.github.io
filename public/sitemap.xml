@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/debojyoti11/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/muskanb/</loc>
     <lastmod>2019-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -72,10 +77,6 @@
   <url>
     <loc>https://techprimers.github.io/public/contributors/virendra-yadav/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/debojyoti11/</loc>
   </url>
   
   <url>
