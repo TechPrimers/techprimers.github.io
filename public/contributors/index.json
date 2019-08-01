@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/petprog/",
+        "title": "Taiwo Peter",
+        "section": "contributors",
+        "date" : "2019.08.01",
+        "body": " About me Hi,\nI am Taiwo Peter.\nI\u0026rsquo;m an android developer. I love java programming.\nYou can find me at\n Github  Cheers!\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/yesbee/",
         "title": "Sagar Bathini",
         "section": "contributors",
@@ -101,14 +109,6 @@
         "section": "contributors",
         "date" : "2019.06.11",
         "body": " About me Hello All,\nI\u0026rsquo;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.\nSince then I have learnt, written and shared lots of code in Github. This repository/github page is dedicated to you all. If you have not contributed to Open Source before, then this is your chance to contribute.\nFork this repo and raise a pull request to add a markdown file with your name and content in it (precisely an About me page), it will be displayed under our Github page (https://techprimers.github.io/contributors).\nDetailed steps can be found in the README.md file here\nHappy Coding!\n"
-    }
-,
-    {
-        "ref": "https://techprimers.github.io/public/contributors/petprog/",
-        "title": "",
-        "section": "contributors",
-        "date" : "0001.01.01",
-        "body": ""
     }
 ,
     {
