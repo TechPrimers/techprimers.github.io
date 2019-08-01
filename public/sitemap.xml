@@ -80,6 +80,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/petprog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/virendra-yadav/</loc>
     <priority>0</priority>
   </url>
