@@ -6,10 +6,49 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gurjot Singh</title>
+      <link>https://techprimers.github.io/public/contributors/gurjotsingh/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/gurjotsingh/</guid>
+      <description>About me Hey there everyone!!
+I&amp;rsquo;m just learning how to contribute in open-source. Hope to learn more.
+Thanks!!
+You can reach me at:
+ LinkedIn Github  Have a nice day!!</description>
+    </item>
+    
+    <item>
+      <title>Taiwo Peter</title>
+      <link>https://techprimers.github.io/public/contributors/petprog/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/petprog/</guid>
+      <description>About me Hi,
+I am Taiwo Peter.
+I&amp;rsquo;m an android developer. I love java programming.
+You can find me at
+ Github  Cheers!</description>
+    </item>
+    
+    <item>
+      <title>Sagar Bathini</title>
+      <link>https://techprimers.github.io/public/contributors/yesbee/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/yesbee/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Sagar Bathini.
+I&amp;rsquo;m a Software Developer with 3+ years of IT industry experience, worked on automation testing(Coded UI) and JAVA enterprise applications.
+You can find me at
+ Github Gmail  Cheers!</description>
+    </item>
     
     <item>
       <title>Debojyoti Paul</title>
@@ -161,7 +200,7 @@ Since then I have learnt, written and shared lots of code in Github. This reposi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/virendra-yadav/</guid>
-      <description>title: &#34;Virendra Yadav&#34; date: 2019-06-17 draft: false --- ## About me Hello All, Myself Virendra Yadav, I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp; IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.</description>
+      <description>title: &#34;Virendra Yadav&#34;date: 2019-06-17draft: false---## About meHello All,Myself Virendra Yadav,I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp; IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.</description>
     </item>
     
   </channel>
