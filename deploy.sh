@@ -14,7 +14,7 @@ git add .
 git commit -m "[Travis CI] Deploy to Github Pages"
 echo "Commit successful"
 git branch
-git pull --set-upstream origin master
+git pull --allow-unrelated-histories
 git push --force "https://${GITHUB_TOKEN}@github.com/techprimers/techprimers.github.io.git" origin master
 echo "Push successful"
 echo "Deployment successful"
