@@ -2,8 +2,8 @@ language: bash
 
 before_script:
   - curl -OL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
-  - tar -xzvf hugo*.tar.gz
-  - chmod 755 contentful-hugo hugo
+  - gunzip hugo*.tar.gz
+  - chmod 755 hugo
 
 script:
   - bash ./deploy.sh
