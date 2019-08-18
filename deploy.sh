@@ -4,7 +4,7 @@
 echo "Deployment in progress..."
 
 # config
-git config --global user.email "nobody@nobody.org"
+git config --global user.email "build@travis-ci.com"
 git config --global user.name "Travis CI"
 echo "Added Github username and email address"
 
