@@ -1,6 +1,5 @@
 #!/bin/bash
 # See reference: https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
-set -o errexit
 
 echo "Deployment in progress..."
 
