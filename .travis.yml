@@ -1,0 +1,23 @@
+language: bash
+
+before_script:
+  - curl -OL https://github.com/adriaandejonge/contentful-hugo/releases/download/${EXTRACTOR_VERSION}/contentful-hugo_${EXTRACTOR_VERSION}_Linux-64bit.tar.gz
+  - curl -OL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar -xzvf contentful*.tar.gz
+  - tar -xzvf hugo*.tar.gz
+  - chmod 755 contentful-hugo hugo
+
+script:
+  - bash ./deploy.sh
+env:
+  global:
+    - GITHUB_REPO: "techprimers/techprimers.github.io"
+
+deploy:
+  provider: pages
+  local_dir: public/
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
