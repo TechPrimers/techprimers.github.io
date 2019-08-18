@@ -12,8 +12,8 @@ script:
   - echo "Hugo build successful"
 
 deploy:
-  provider: pages
-  local_dir: public
+  provider: script
+  script: ./deploy.sh
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
