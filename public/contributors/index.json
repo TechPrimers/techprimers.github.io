@@ -116,7 +116,7 @@
         "title": "Ajay Kumar S",
         "section": "contributors",
         "date" : "2019.06.11",
-        "body": " About me Hello All,\nI\u0026rsquo;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.\nSince then I have learnt, written and shared lots of code in Github. This repository/github page is dedicated to you all. If you have not contributed to Open Source before, then this is your chance to contribute.\nFork this repo and raise a pull request to add a markdown file with your name and content in it (precisely an About me page), it will be displayed under our Github page (https://techprimers.github.io/contributors).\nDetailed steps can be found in the README.md file here\nHappy Coding!\n"
+        "body": " About me Hello All,\nI\u0026rsquo;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.\nSince then I have learnt, written and shared lots of code in Github. This repository/github page is dedicated to you all. If you have not contributed to Open Source before, then this is your chance to contribute.\nFork this repo and raise a pull request to add a markdown file with your name and content in it (precisely an About me page), it will be displayed under our Github page (https://techprimers.github.io/contributors).\nDetailed steps can be found in the README.md file\nHappy Coding!\n"
     }
 ,
     {
@@ -124,6 +124,6 @@
         "title": "",
         "section": "contributors",
         "date" : "0001.01.01",
-        "body": "\rtitle: \"Virendra Yadav\"\rdate: 2019-06-17\rdraft: false\r---\r## About me\rHello All,\rMyself Virendra Yadav,\rI am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps \u0026 IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies. You can find me at\r- [*LinkedIn*](https://www.linkedin.com/in/yadav-viren/)\r- [*Github*](https://github.com/virendrayadav)\r- [*Blog*](https://virendrayadav.co/)\r- [*Gmail*](mailto:virendra.yadav1@gmail.com)\rCheers!\r"
+        "body": " title: \"Virendra Yadav\" date: 2019-06-17 draft: false --- ## About me Hello All, Myself Virendra Yadav, I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps \u0026 IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies. You can find me at - [*LinkedIn*](https://www.linkedin.com/in/yadav-viren/) - [*Github*](https://github.com/virendrayadav) - [*Blog*](https://virendrayadav.co/) - [*Gmail*](mailto:virendra.yadav1@gmail.com) Cheers! "
     }
 ]
