@@ -3,7 +3,7 @@
 set -o errexit
 
 rm -rf public
-mkdir public
+mkdir -p public
 
 # config
 git config --global user.email "nobody@nobody.org"
