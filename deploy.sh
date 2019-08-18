@@ -12,6 +12,6 @@ echo "Added Github username and email address"
 git add .
 git commit -m "Deploy to Github Pages"
 echo "Commit successful"
-git push --force --quiet "https://${GITHUB_TOKEN}@$github.com/techprimers/techprimers.github.io.git" master:master > /dev/null 2>&1
+git push --force --quiet "https://${GITHUB_TOKEN}@$github.com/techprimers/techprimers.github.io.git" master:gh-pages > /dev/null 2>&1
 echo "Push successful"
 echo "Deployment successful"
