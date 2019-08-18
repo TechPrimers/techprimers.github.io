@@ -9,6 +9,7 @@ git config --global user.name "Travis CI"
 echo "Added Github username and email address"
 
 # deploy
+git checkout master
 git add .
 git commit -m "[Travis CI] Deploy to Github Pages"
 echo "Commit successful"
