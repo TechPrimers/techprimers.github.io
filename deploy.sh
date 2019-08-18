@@ -12,6 +12,7 @@ echo "Added Github username and email address"
 git add .
 git commit -m "[Travis CI] Deploy to Github Pages"
 echo "Commit successful"
+git branch
 git push "https://${GITHUB_TOKEN}@github.com/techprimers/techprimers.github.io.git" --set-upstream origin master
 echo "Push successful"
 echo "Deployment successful"
