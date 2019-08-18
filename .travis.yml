@@ -1,14 +1,14 @@
 language: bash
 
 install:
+  - rm -rf public/
+  - echo "Cleaned up public folder..."
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.55.4/hugo_0.55.4_Linux-64bit.deb
   - sudo dpkg -i hugo_0.55.4_Linux-64bit.deb
 
 script:
   - hugo
-env:
-  global:
-    - GITHUB_REPO: "techprimers/techprimers.github.io"
+  - echo "Hugo build successful"
 
 deploy:
   provider: pages
