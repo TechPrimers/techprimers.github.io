@@ -14,7 +14,7 @@ git add .
 git commit -m "[Travis CI] Deploy to Github Pages"
 echo "Commit successful"
 git branch
-git remote -v
-git push --force "https://${GITHUB_TOKEN}@github.com/techprimers/techprimers.github.io.git" origin master
+git remote set-url origin "https://${GITHUB_TOKEN}@github.com/techprimers/techprimers.github.io.git"
+git push --force origin master
 echo "Push successful"
 echo "Deployment successful"
