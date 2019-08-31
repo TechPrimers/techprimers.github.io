@@ -1,6 +1,6 @@
 ---
 title: "Tony A. Njoku"
-date: "29-08-2019"
+date: 29-08-2019
 draft: false
 ---
 
