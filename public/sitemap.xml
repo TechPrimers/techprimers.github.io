@@ -3,8 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/jigarkataria/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/shubhamjoshi/</loc>
+    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,22 +106,11 @@
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/virendra-yadav/</loc>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/index.json</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
