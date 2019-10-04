@@ -6,10 +6,20 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ramji Rathore</title>
+      <link>https://techprimers.github.io/public/contributors/ramjirathore/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/ramjirathore/</guid>
+      <description>About me Hey there everyone,
+I&amp;rsquo;m student in 2nd year CSE, having done Competitive programming during my first year. Enjoyed it, now i&amp;rsquo;m trying to learn open source. This is my first contribution quite excited about it. Throughout i&amp;rsquo;ve learnt few languages like C, C++ and little hands on Python. Currently starting with Nodejs after learning JS. Made a game using JS it&amp;rsquo;s called PIG GAME (i know &amp;gt;.&amp;lt;). Continuing with another project i hope it goes well too.</description>
+    </item>
     
     <item>
       <title>Jigar Kataria</title>
