@@ -6,10 +6,20 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prerna</title>
+      <link>https://techprimers.github.io/public/contributors/chandler/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/chandler/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Prerna. I&amp;rsquo;m a tech enthusiast and new to open source. Here to learn new things.My first PR. THANKS AND CHEERS! Happy Coding!</description>
+    </item>
     
     <item>
       <title>Ramji Rathore</title>
