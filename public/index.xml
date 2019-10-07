@@ -6,10 +6,24 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Babita Bisht</title>
+      <link>https://techprimers.github.io/public/contributors/babitabisht/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/babitabisht/</guid>
+      <description>About me Hii All,
+I&amp;rsquo;m Babita Bisht - a software Engineer who loves to code, read, exploring new technologies and meeting new people.
+Programming is an amazing experience and open source communities are something that always excited me.
+This is my first tiny step towards open source contribution.
+You can find me at
+ Github  Happy Coding!</description>
+    </item>
     
     <item>
       <title>Prerna</title>
