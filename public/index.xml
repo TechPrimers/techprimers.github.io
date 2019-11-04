@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechPrimers Open Source</title>
@@ -6,10 +6,22 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Snehal Khandve</title>
+      <link>https://techprimers.github.io/public/contributors/snehalkhandve/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/snehalkhandve/</guid>
+      <description>About me Hello All,
+Something about me : Avid software explorer and likes to read a lot of books. Novice in open source contribution.
+You can find me at
+ Github  Happy Coding!</description>
+    </item>
     
     <item>
       <title>Arham Kamal</title>
@@ -316,7 +328,7 @@ I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/virendra-yadav/</guid>
-      <description>title: &#34;Virendra Yadav&#34; date: 2019-06-17 draft: false --- ## About me Hello All, Myself Virendra Yadav, I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp; IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.</description>
+      <description>title: &#34;Virendra Yadav&#34;date: 2019-06-17draft: false---## About meHello All,Myself Virendra Yadav,I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp; IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.</description>
     </item>
     
     <item>
