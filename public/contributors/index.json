@@ -214,4 +214,12 @@
         "date" : "0001.01.01",
         "body": " About me Hello All,\nI\u0026rsquo;m Tony, a full stack developer hobbyist. I am looking into getting into open source development.\nCheers All.\n"
     }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/pritam/",
+        "title": "pritam saha",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " About me Hi,\nI am pritam saha.\nI\u0026rsquo;m a web developer. I love competitive programing.\nYou can find me at\n Github  Cheers!\n"
+    }
 ]
