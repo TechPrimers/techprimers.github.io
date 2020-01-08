@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechPrimers Open Source</title>
@@ -6,10 +6,22 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gaurav Kumar Raghav</title>
+      <link>https://techprimers.github.io/public/contributors/raghav714/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/raghav714/</guid>
+      <description>About me Hello All,
+I&#39;m Gaurav. I am 8th semester student at IIIT Manipur Homepage. This is my first time i am contributing to open source project.
+Thank You TechPrimers for video.
+Happy Coding!</description>
+    </item>
     
     <item>
       <title>Manoj Yadwad</title>
@@ -38,7 +50,7 @@ Happy Coding!</description>
       
       <guid>https://techprimers.github.io/public/contributors/himanshu/</guid>
       <description>##About me Hello All,
-I&amp;rsquo;m Himanshu Tank, an Red Hat Certified Architect(RHCA-Lvl 1), Red Hat Certified Engineer(RHCE). Work on Linux, OpenShift, Kubernetes, Ansible, CEPH Storage, and many other technologies from past few year. Eager to learn technologies and to share. In my past, i done my Open Source contribution in Fedora Project.
+I&#39;m Himanshu Tank, an Red Hat Certified Architect(RHCA-Lvl 1), Red Hat Certified Engineer(RHCE). Work on Linux, OpenShift, Kubernetes, Ansible, CEPH Storage, and many other technologies from past few year. Eager to learn technologies and to share. In my past, i done my Open Source contribution in Fedora Project.
 You can find me at
  LinkedIn Gmail  Happy Sharing!!!!!</description>
     </item>
@@ -50,8 +62,8 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/foramsojitra/</guid>
       <description>About me Hello Everyone,
-I&amp;rsquo;m Foram Sojitra.
-I&amp;rsquo;m a MAEN stack developer who loves to code, exploring new technologies.
+I&#39;m Foram Sojitra.
+I&#39;m a MAEN stack developer who loves to code, exploring new technologies.
 This is my first open source contribution.
 You can find me at
  Github LinkedIn Gmail  Cheers!! Have a good day</description>
@@ -64,7 +76,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/babitabisht/</guid>
       <description>About me Hii All,
-I&amp;rsquo;m Babita Bisht - a software Engineer who loves to code, read, exploring new technologies and meeting new people.
+I&#39;m Babita Bisht - a software Engineer who loves to code, read, exploring new technologies and meeting new people.
 Programming is an amazing experience and open source communities are something that always excited me.
 This is my first tiny step towards open source contribution.
 You can find me at
@@ -78,7 +90,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/chandler/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Prerna. I&amp;rsquo;m a tech enthusiast and new to open source. Here to learn new things.My first PR. THANKS AND CHEERS! Happy Coding!</description>
+I&#39;m Prerna. I&#39;m a tech enthusiast and new to open source. Here to learn new things.My first PR. THANKS AND CHEERS! Happy Coding!</description>
     </item>
     
     <item>
@@ -88,7 +100,7 @@ I&amp;rsquo;m Prerna. I&amp;rsquo;m a tech enthusiast and new to open source. He
       
       <guid>https://techprimers.github.io/public/contributors/ramjirathore/</guid>
       <description>About me Hey there everyone,
-I&amp;rsquo;m student in 2nd year CSE, having done Competitive programming during my first year. Enjoyed it, now i&amp;rsquo;m trying to learn open source. This is my first contribution quite excited about it. Throughout i&amp;rsquo;ve learnt few languages like C, C++ and little hands on Python. Currently starting with Nodejs after learning JS. Made a game using JS it&amp;rsquo;s called PIG GAME (i know &amp;gt;.&amp;lt;). Continuing with another project i hope it goes well too.</description>
+I&#39;m student in 2nd year CSE, having done Competitive programming during my first year. Enjoyed it, now i&#39;m trying to learn open source. This is my first contribution quite excited about it. Throughout i&#39;ve learnt few languages like C, C++ and little hands on Python. Currently starting with Nodejs after learning JS. Made a game using JS it&#39;s called PIG GAME (i know &amp;gt;.&amp;lt;). Continuing with another project i hope it goes well too.</description>
     </item>
     
     <item>
@@ -100,7 +112,7 @@ I&amp;rsquo;m student in 2nd year CSE, having done Competitive programming durin
       <description>About me Hi, I’m Jigar, I am MEAN Stack Developer with 2+ years of experience. I have recently started for Searching for Open Source Projects in which I can contribute.
 Apart from Coding, I like to travel and meet New people.
 You can find me at these places but the most reliable way to reach me is to send an email.
-- LinkedIn - Github - Gmail</description>
+ LinkedIn Github Gmail  </description>
     </item>
     
     <item>
@@ -109,7 +121,7 @@ You can find me at these places but the most reliable way to reach me is to send
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/shubhamjoshi/</guid>
-      <description>About me Hi I&amp;rsquo;m Shubham,
+      <description>About me Hi I&#39;m Shubham,
 Just a beginner.</description>
     </item>
     
@@ -120,7 +132,7 @@ Just a beginner.</description>
       
       <guid>https://techprimers.github.io/public/contributors/sourabhsharma/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Sourabh. I&amp;rsquo;m a voyager. I&amp;rsquo;m always keen to learning new technologies and get my hands on them to see it in action. I follow this YouTube Channel 👉YouTube - Tech Primers👈 that has really helped me to achieve that.
+I&#39;m Sourabh. I&#39;m a voyager. I&#39;m always keen to learning new technologies and get my hands on them to see it in action. I follow this YouTube Channel 👉YouTube - Tech Primers👈 that has really helped me to achieve that.
 I believe if you think of starting something new, you already reach halfway to accomplish that. I am a positive thinker, passionate coder, and a friendly person.</description>
     </item>
     
@@ -131,7 +143,7 @@ I believe if you think of starting something new, you already reach halfway to a
       
       <guid>https://techprimers.github.io/public/contributors/gurjotsingh/</guid>
       <description>About me Hey there everyone!!
-I&amp;rsquo;m just learning how to contribute in open-source. Hope to learn more.
+I&#39;m just learning how to contribute in open-source. Hope to learn more.
 Thanks!!
 You can reach me at:
  LinkedIn Github  Have a nice day!!</description>
@@ -145,7 +157,7 @@ You can reach me at:
       <guid>https://techprimers.github.io/public/contributors/petprog/</guid>
       <description>About me Hi,
 I am Taiwo Peter.
-I&amp;rsquo;m an android developer. I love java programming.
+I&#39;m an android developer. I love java programming.
 You can find me at
  Github  Cheers!</description>
     </item>
@@ -157,8 +169,8 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/yesbee/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Sagar Bathini.
-I&amp;rsquo;m a Software Developer with 3+ years of IT industry experience, worked on automation testing(Coded UI) and JAVA enterprise applications.
+I&#39;m Sagar Bathini.
+I&#39;m a Software Developer with 3+ years of IT industry experience, worked on automation testing(Coded UI) and JAVA enterprise applications.
 You can find me at
  Github Gmail  Cheers!</description>
     </item>
@@ -171,7 +183,7 @@ You can find me at
       <guid>https://techprimers.github.io/public/contributors/debojyoti11/</guid>
       <description>About me Hi,
 I am Debojyoti Paul.
-I&amp;rsquo;m Full Stack Developer having skill set in Java,Spring Boot, Node JS,Angular, AWS.
+I&#39;m Full Stack Developer having skill set in Java,Spring Boot, Node JS,Angular, AWS.
 If you are interested here is my profile.
 You can find me at
  LinkedIn Github  Cheers!</description>
@@ -196,8 +208,8 @@ Keep learning and keep coding !!</description>
       
       <guid>https://techprimers.github.io/public/contributors/vengatesann/</guid>
       <description>About me Hi All,
-I&amp;rsquo;m Vengatesan, a full stack developer(SpringBoot, Microservices, DevOps &amp;amp; Angular). I have 2 years of experience on end to end application development and also I&amp;rsquo;m more interested to do system architectural design.
-When I&amp;rsquo;m exploring new tools and technology , I learned by self interested and then do it from scratch. And If I&amp;rsquo;m doing some POC on particular technology or concepts, TechPrimers one of all other tech community helps me to understand it in different perspective view, Thanks for that.</description>
+I&#39;m Vengatesan, a full stack developer(SpringBoot, Microservices, DevOps &amp;amp; Angular). I have 2 years of experience on end to end application development and also I&#39;m more interested to do system architectural design.
+When I&#39;m exploring new tools and technology , I learned by self interested and then do it from scratch. And If I&#39;m doing some POC on particular technology or concepts, TechPrimers one of all other tech community helps me to understand it in different perspective view, Thanks for that.</description>
     </item>
     
     <item>
@@ -216,7 +228,7 @@ When I&amp;rsquo;m exploring new tools and technology , I learned by self intere
       
       <guid>https://techprimers.github.io/public/contributors/omkarshetkar/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Omkar Shetkar.
+I&#39;m Omkar Shetkar.
 I am a Software Developer, located in Bangalore.
 You can find me at
  Twitter Github Blog  :)</description>
@@ -229,7 +241,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/shashanksdixit/</guid>
       <description>About me Hi All
-I am Shashank. It&amp;rsquo;s been a while being in software industry.
+I am Shashank. It&#39;s been a while being in software industry.
 It is exciting to be here.
 Cheers !</description>
     </item>
@@ -241,8 +253,8 @@ Cheers !</description>
       
       <guid>https://techprimers.github.io/public/contributors/anilkumarkatta/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Anil Kumar Katta.
-I&amp;rsquo;m a senior software developer with 13+ years of IT industry experience, worked on various enterprise applications.
+I&#39;m Anil Kumar Katta.
+I&#39;m a senior software developer with 13+ years of IT industry experience, worked on various enterprise applications.
 You can find me at
  LinkedIn Github Gmail  Cheers!</description>
     </item>
@@ -264,8 +276,8 @@ Apart from Coding, I love going Hackathons, attending Conferences, Travelling an
       
       <guid>https://techprimers.github.io/public/contributors/muiznadeem/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Muiz, a full stack developer(SpringBoot, Node.js, Angular, React, CI/CD). To me, Youtube is one of the primary sources of exploring new tools and technologies. I would rank TechPrimers the highest among Indian Youtube contributors in Tech space.
-I&amp;rsquo;ve been coding for 5 years now but this is my first contribution to a open source project. If you haven&amp;rsquo;t contributed to open source before, do it!</description>
+I&#39;m Muiz, a full stack developer(SpringBoot, Node.js, Angular, React, CI/CD). To me, Youtube is one of the primary sources of exploring new tools and technologies. I would rank TechPrimers the highest among Indian Youtube contributors in Tech space.
+I&#39;ve been coding for 5 years now but this is my first contribution to a open source project. If you haven&#39;t contributed to open source before, do it!</description>
     </item>
     
     <item>
@@ -276,7 +288,7 @@ I&amp;rsquo;ve been coding for 5 years now but this is my first contribution to 
       <guid>https://techprimers.github.io/public/contributors/subhashsahu/</guid>
       <description>About me Hi,
 I am Subhash Sahu.
-I&amp;rsquo;m certified Cloud Engineer having skill set in Cloud,Java,Node JS,Angular,CI/CD,Codeigniter.
+I&#39;m certified Cloud Engineer having skill set in Cloud,Java,Node JS,Angular,CI/CD,Codeigniter.
 If you are interested here is my profile.
 You can find me at
  LinkedIn Github  Cheers!</description>
@@ -289,8 +301,8 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/ankurgoel/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Ankur Goel.
-As expected, I&amp;rsquo;m a software developer with a focus on configuring Java applications using Spring and a strong advocate for technical quality while delivering software that brings business value.
+I&#39;m Ankur Goel.
+As expected, I&#39;m a software developer with a focus on configuring Java applications using Spring and a strong advocate for technical quality while delivering software that brings business value.
 If you are interested here is my profile.
 You can find me at
  LinkedIn Github Gmail  Cheers!</description>
@@ -303,7 +315,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/ajaykumars/</guid>
       <description>About me Hello All,
-I&amp;rsquo;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.
+I&#39;m Ajay. I create educational content in TechPrimers. I started this channel on Feb 11, 2017 with the idea to Learn, Code and Share knowledge on the latest technology trends.
 Since then I have learnt, written and shared lots of code in Github. This repository/github page is dedicated to you all. If you have not contributed to Open Source before, then this is your chance to contribute.</description>
     </item>
     
@@ -314,9 +326,8 @@ Since then I have learnt, written and shared lots of code in Github. This reposi
       
       <guid>https://techprimers.github.io/public/contributors/bhari/</guid>
       <description>hi im shashank bhari new
-title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18
-draft: false About me Hello All,
-I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
+ title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18 draft: false About me Hello All,
+I&#39;m Shashank Bhari. I&#39;m new to open source world.</description>
     </item>
     
     <item>
@@ -329,17 +340,6 @@ I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</descripti
     </item>
     
     <item>
-      <title>Tony A. Njoku</title>
-      <link>https://techprimers.github.io/public/contributors/chidinjoku/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/chidinjoku/</guid>
-      <description>About me Hello All,
-I&amp;rsquo;m Tony, a full stack developer hobbyist. I am looking into getting into open source development.
-Cheers All.</description>
-    </item>
-    
-    <item>
       <title>pritam saha</title>
       <link>https://techprimers.github.io/public/contributors/pritam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -347,9 +347,20 @@ Cheers All.</description>
       <guid>https://techprimers.github.io/public/contributors/pritam/</guid>
       <description>About me Hi,
 I am pritam saha.
-I&amp;rsquo;m a web developer. I love competitive programing.
+I&#39;m a web developer. I love competitive programing.
 You can find me at
  Github  Cheers!</description>
+    </item>
+    
+    <item>
+      <title>Tony A. Njoku</title>
+      <link>https://techprimers.github.io/public/contributors/chidinjoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/chidinjoku/</guid>
+      <description>About me Hello All,
+I&#39;m Tony, a full stack developer hobbyist. I am looking into getting into open source development.
+Cheers All.</description>
     </item>
     
   </channel>
