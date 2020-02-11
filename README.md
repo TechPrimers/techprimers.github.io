@@ -19,7 +19,7 @@ Youtube video on [Hugo Example](https://www.youtube.com/watch?v=yjdJGhV6gbg)
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TechPrimers/techprimers.github.io)
 
 ## Checkout
-The below steps are for checking out this codebase
+The below steps are for checking out this codebase.
 ```
 git clone https://github.com/TechPrimers/techprimers.github.io.git techprimers-repo
 cd techprimers-repo
