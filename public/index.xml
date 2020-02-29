@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abhishek Gupta</title>
+      <link>https://techprimers.github.io/public/contributors/abhishekgupta/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/abhishekgupta/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Abhishek Gupta.
+My name is Abhishek Gupta and pursing my Bachelor’s Degree from Vellore institute of technology in Computer Science and Engineering and currently in fourth year.
+You can find me at
+ LinkedIn Github Gmail  Thank You</description>
+    </item>
     
     <item>
       <title>Akash Dutta</title>
