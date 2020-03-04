@@ -1,6 +1,6 @@
 ---
 title: "shubham upadhyay"
-date: 01-01-2020
+date: 2020-01-01
 draft: false
 ---
 
