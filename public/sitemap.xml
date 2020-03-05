@@ -30,6 +30,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/shubham/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/manojyadwad/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>
   </url>
@@ -72,6 +77,11 @@
   <url>
     <loc>https://techprimers.github.io/public/contributors/shubhamjoshi/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/chidinjoku/</loc>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -155,6 +165,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/pritam/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/bhari/</loc>
     <priority>0</priority>
   </url>
@@ -167,18 +182,6 @@
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/chidinjoku/</loc>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/pritam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/shubham/</loc>
   </url>
   
 </urlset>
