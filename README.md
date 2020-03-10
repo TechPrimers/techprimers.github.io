@@ -53,4 +53,4 @@ Commit the `public` folder along with your markdown file and raise a pull reques
 Feel free to just add the `.md` file alone.
 
 ## Motivation 
-Contributions brings happiness to world!
+Contribution brings happiness to world!
