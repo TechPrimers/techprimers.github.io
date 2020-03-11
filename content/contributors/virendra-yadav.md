@@ -1,6 +1,5 @@
-<i class="fab fa-github"></i>
 
-
+---
 title: "Virendra Yadav"
 date: 2019-06-17
 draft: false
