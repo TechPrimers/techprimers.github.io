@@ -19,7 +19,7 @@ Youtube video on [Hugo Example](https://www.youtube.com/watch?v=yjdJGhV6gbg)
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TechPrimers/techprimers.github.io)
 
 ## Checkout
-The below steps are for checking out this codebase
+The below steps are for checking out this codebase.
 ```
 git clone https://github.com/TechPrimers/techprimers.github.io.git techprimers-repo
 cd techprimers-repo
@@ -50,4 +50,8 @@ cd techprimers-repo
 hugo
 ```
 Commit the `public` folder along with your markdown file and raise a pull request. -> This process is now automated using [Travis CI](https://travis-ci.com/TechPrimers/techprimers.github.io).
+
 Feel free to just add the `.md` file alone.
+
+## Motivation 
+Contribution brings happiness to world!

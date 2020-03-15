@@ -6,10 +6,20 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lucas Machado</title>
+      <link>https://techprimers.github.io/public/contributors/lucasmachado/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/lucasmachado/</guid>
+      <description>Hello , my name is Lucas Machado.
+I have 22 years and i&amp;rsquo;m a Bachelor in Science and Technology in Federal University of Maranhão in Brazil, currently i&amp;rsquo;m a four year undergraduate student of Computer Engineering in Federal University of Maranhão also i&amp;rsquo;m a researcher in software engineering techniques for Smart Cities in the Intelligent Distributed Systems laboratory at the Federal University of Maranhão. Love Computer Science, Physics and Math, i have a relationship with Java, Spring Boot, Spring Security, React, Javascript, RESTful API, MySQL, PostgreSQL, Html &amp;amp; Css and i&amp;rsquo;m flirting with Node.</description>
+    </item>
     
     <item>
       <title>Abhishek Gupta</title>
@@ -407,6 +417,28 @@ You can find me at
       <description>hi im shashank bhari new
  title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18 draft: false About me Hello All,
 I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://techprimers.github.io/public/contributors/virendra-yadav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/virendra-yadav/</guid>
+      <description>title: &#34;Virendra Yadav&#34; date: 2019-06-17 draft: false --- ## About me Hello All, Myself Virendra Yadav, I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp; IoT based solutions. I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow. Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.</description>
+    </item>
+    
+    <item>
+      <title>Suvodeep Sinha</title>
+      <link>https://techprimers.github.io/public/contributors/suvoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/suvoo/</guid>
+      <description>About me Hello Everyone,
+I&amp;rsquo;m Suvodeep Sinha.
+I&amp;rsquo;m a Fresher at SRM Institute of Science and Technology.I am interested in App Developement and Frontend Design.I am new to open source.
+You can find me at
+ LinkedIn Github Gmail  Cheers!</description>
     </item>
     
   </channel>

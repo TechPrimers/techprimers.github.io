@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/lucasmachado/",
+        "title": "Lucas Machado",
+        "section": "contributors",
+        "date" : "2020.03.07",
+        "body": "Hello , my name is Lucas Machado.\nI have 22 years and i\u0026rsquo;m a Bachelor in Science and Technology in Federal University of Maranhão in Brazil, currently i\u0026rsquo;m a four year undergraduate student of Computer Engineering in Federal University of Maranhão also i\u0026rsquo;m a researcher in software engineering techniques for Smart Cities in the Intelligent Distributed Systems laboratory at the Federal University of Maranhão. Love Computer Science, Physics and Math, i have a relationship with Java, Spring Boot, Spring Security, React, Javascript, RESTful API, MySQL, PostgreSQL, Html \u0026amp; Css and i\u0026rsquo;m flirting with Node.js, GraphQL, Microservices and Serverless Architectures.\nThis is my first contribuition in a open-source project, feel free to contact me :) - Github - LinkedIn\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/abhishekgupta/",
         "title": "Abhishek Gupta",
         "section": "contributors",
@@ -261,5 +269,13 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": "hi im shashank bhari new\n title: \u0026ldquo;Shashank Bhari\u0026rdquo; date: 2019-10-18 draft: false About me Hello All,\nI\u0026rsquo;m Shashank Bhari. I\u0026rsquo;m new to open source world.\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/suvoo/",
+        "title": "Suvodeep Sinha",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " About me Hello Everyone,\nI\u0026rsquo;m Suvodeep Sinha.\nI\u0026rsquo;m a Fresher at SRM Institute of Science and Technology.I am interested in App Developement and Frontend Design.I am new to open source.\nYou can find me at\n LinkedIn Github Gmail  Cheers!\n"
     }
 ]
