@@ -6,10 +6,33 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lucas Machado</title>
+      <link>https://techprimers.github.io/public/contributors/lucasmachado/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/lucasmachado/</guid>
+      <description>Hello , my name is Lucas Machado.
+I have 22 years and i&amp;rsquo;m a Bachelor in Science and Technology in Federal University of Maranhão in Brazil, currently i&amp;rsquo;m a four year undergraduate student of Computer Engineering in Federal University of Maranhão also i&amp;rsquo;m a researcher in software engineering techniques for Smart Cities in the Intelligent Distributed Systems laboratory at the Federal University of Maranhão. Love Computer Science, Physics and Math, i have a relationship with Java, Spring Boot, Spring Security, React, Javascript, RESTful API, MySQL, PostgreSQL, Html &amp;amp; Css and i&amp;rsquo;m flirting with Node.</description>
+    </item>
+    
+    <item>
+      <title>Abhishek Gupta</title>
+      <link>https://techprimers.github.io/public/contributors/abhishekgupta/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/abhishekgupta/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Abhishek Gupta.
+My name is Abhishek Gupta and pursing my Bachelor’s Degree from Vellore institute of technology in Computer Science and Engineering and currently in fourth year.
+You can find me at
+ LinkedIn Github Gmail  Thank You</description>
+    </item>
     
     <item>
       <title>Akash Dutta</title>
@@ -34,6 +57,20 @@ You can find me at
 I&amp;rsquo;m Gaurav. I am 8th semester student at IIIT Manipur Homepage. This is my first time i am contributing to open source project.
 Thank You TechPrimers for video.
 Happy Coding!</description>
+    </item>
+    
+    <item>
+      <title>shubham upadhyay</title>
+      <link>https://techprimers.github.io/public/contributors/shubham/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/shubham/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m shubham upadhyay.
+As expected, I&amp;rsquo;m a software developer with a focus on configuring Python applications using Jupyter Notebook and technical quality while delivering software that brings business value.
+If you are interested here is my profile.
+You can find me at
+ LinkedIn Github Gmail  Cheers!</description>
     </item>
     
     <item>
@@ -136,6 +173,17 @@ You can find me at these places but the most reliable way to reach me is to send
       <guid>https://techprimers.github.io/public/contributors/shubhamjoshi/</guid>
       <description>About me Hi I&amp;rsquo;m Shubham,
 Just a beginner.</description>
+    </item>
+    
+    <item>
+      <title>Tony A. Njoku</title>
+      <link>https://techprimers.github.io/public/contributors/chidinjoku/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/chidinjoku/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Tony, a full stack developer hobbyist. I am looking into getting into open source development.
+Cheers All.</description>
     </item>
     
     <item>
@@ -333,6 +381,19 @@ Since then I have learnt, written and shared lots of code in Github. This reposi
     </item>
     
     <item>
+      <title>pritam saha</title>
+      <link>https://techprimers.github.io/public/contributors/pritam/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/pritam/</guid>
+      <description>About me Hi,
+I am pritam saha.
+I&amp;rsquo;m a web developer. I love competitive programing.
+You can find me at
+ Github  Cheers!</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://techprimers.github.io/public/contributors/bhari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -354,39 +415,14 @@ I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</descripti
     </item>
     
     <item>
-      <title>Tony A. Njoku</title>
-      <link>https://techprimers.github.io/public/contributors/chidinjoku/</link>
+      <title>Suvodeep Sinha</title>
+      <link>https://techprimers.github.io/public/contributors/suvoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techprimers.github.io/public/contributors/chidinjoku/</guid>
-      <description>About me Hello All,
-I&amp;rsquo;m Tony, a full stack developer hobbyist. I am looking into getting into open source development.
-Cheers All.</description>
-    </item>
-    
-    <item>
-      <title>pritam saha</title>
-      <link>https://techprimers.github.io/public/contributors/pritam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/pritam/</guid>
-      <description>About me Hi,
-I am pritam saha.
-I&amp;rsquo;m a web developer. I love competitive programing.
-You can find me at
- Github  Cheers!</description>
-    </item>
-    
-    <item>
-      <title>shubham upadhyay</title>
-      <link>https://techprimers.github.io/public/contributors/shubham/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/shubham/</guid>
-      <description>About me Hello All,
-I&amp;rsquo;m shubham upadhyay.
-As expected, I&amp;rsquo;m a software developer with a focus on configuring Python applications using Jupyter Notebook and technical quality while delivering software that brings business value.
-If you are interested here is my profile.
+      <guid>https://techprimers.github.io/public/contributors/suvoo/</guid>
+      <description>About me Hello Everyone,
+I&amp;rsquo;m Suvodeep Sinha.
+I&amp;rsquo;m a Fresher at SRM Institute of Science and Technology.I am interested in App Developement and Frontend Design.I am new to open source.
 You can find me at
  LinkedIn Github Gmail  Cheers!</description>
     </item>

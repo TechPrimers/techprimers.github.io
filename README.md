@@ -50,4 +50,8 @@ cd techprimers-repo
 hugo
 ```
 Commit the `public` folder along with your markdown file and raise a pull request. -> This process is now automated using [Travis CI](https://travis-ci.com/TechPrimers/techprimers.github.io).
+
 Feel free to just add the `.md` file alone.
+
+## Motivation 
+Contribution brings happiness to world!
