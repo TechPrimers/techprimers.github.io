@@ -4,7 +4,6 @@ date: 2020-04-13
 draft: false
 ---
 
-s
 
 ## About me
 
