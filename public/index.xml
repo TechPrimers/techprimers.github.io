@@ -142,6 +142,15 @@ Happy Programming!!!</description>
     </item>
     
     <item>
+      <title>Subodh Sharma</title>
+      <link>https://techprimers.github.io/public/contributors/subodhsharma/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/subodhsharma/</guid>
+      <description>About Me Yo, this is Subodh. Aspiring web developer focus on javascript and python</description>
+    </item>
+    
+    <item>
       <title>Suvodeep Sinha</title>
       <link>https://techprimers.github.io/public/contributors/suvoo/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
@@ -560,15 +569,6 @@ You can find me at
 title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18
 draft: false About me Hello All,
 I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
-    </item>
-    
-    <item>
-      <title>Subodh Sharma</title>
-      <link>https://techprimers.github.io/public/contributors/subodhsharma/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/subodhsharma/</guid>
-      <description>About Me Yo, this is Subodh. Aspiring web developer focus on javascript and python</description>
     </item>
     
   </channel>

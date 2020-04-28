@@ -80,6 +80,14 @@
     }
 ,
     {
+        "ref": "https://techprimers.github.io/public/contributors/subodhsharma/",
+        "title": "Subodh Sharma",
+        "section": "contributors",
+        "date" : "2020.03.20",
+        "body": " About Me Yo, this is Subodh. Aspiring web developer focus on javascript and python\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/suvoo/",
         "title": "Suvodeep Sinha",
         "section": "contributors",
@@ -357,13 +365,5 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": " hi im shashank bhari new\ntitle: \u0026ldquo;Shashank Bhari\u0026rdquo; date: 2019-10-18\ndraft: false About me Hello All,\nI\u0026rsquo;m Shashank Bhari. I\u0026rsquo;m new to open source world.\n"
-    }
-,
-    {
-        "ref": "https://techprimers.github.io/public/contributors/subodhsharma/",
-        "title": "Subodh Sharma",
-        "section": "contributors",
-        "date" : "0001.01.01",
-        "body": " About Me Yo, this is Subodh. Aspiring web developer focus on javascript and python\n"
     }
 ]

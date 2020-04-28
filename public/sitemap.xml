@@ -65,6 +65,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/subodhsharma/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/suvoo/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -242,10 +247,6 @@
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/subodhsharma/</loc>
   </url>
   
 </urlset>
