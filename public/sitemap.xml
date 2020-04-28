@@ -65,6 +65,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/suvoo/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/lucasmachado/</loc>
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -241,10 +246,6 @@
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/subodhsharma/</loc>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/suvoo/</loc>
   </url>
   
 </urlset>

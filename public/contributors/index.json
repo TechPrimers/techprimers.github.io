@@ -80,6 +80,14 @@
     }
 ,
     {
+        "ref": "https://techprimers.github.io/public/contributors/suvoo/",
+        "title": "Suvodeep Sinha",
+        "section": "contributors",
+        "date" : "2020.03.15",
+        "body": " About me Hello Everyone,\nI\u0026rsquo;m Suvodeep Sinha.\nI\u0026rsquo;m a Fresher at SRM Institute of Science and Technology.I am interested in App Developement and Frontend Design.I am new to open source.\nYou can find me at\n LinkedIn Github Gmail  Cheers!\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/lucasmachado/",
         "title": "Lucas Machado",
         "section": "contributors",
@@ -357,13 +365,5 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": " About Me Yo, this is Subodh. Aspiring web developer focus on javascript and python\n"
-    }
-,
-    {
-        "ref": "https://techprimers.github.io/public/contributors/suvoo/",
-        "title": "Suvodeep Sinha",
-        "section": "contributors",
-        "date" : "0001.01.01",
-        "body": " About me Hello Everyone,\nI\u0026rsquo;m Suvodeep Sinha.\nI\u0026rsquo;m a Fresher at SRM Institute of Science and Technology.I am interested in App Developement and Frontend Design.I am new to open source.\nYou can find me at\n LinkedIn Github Gmail  Cheers!\n"
     }
 ]
