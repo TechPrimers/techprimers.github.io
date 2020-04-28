@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Washington</title>
+      <link>https://techprimers.github.io/public/contributors/wayiok/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/wayiok/</guid>
+      <description>##ABOUT ME
+Hi, I&amp;rsquo;m Washington.
+I am currently a student in the National Polytechnic School based in Quito - Ecuador. This is my first contribution to open source software.
+You can find me at:
+ LinkedIn Github Twitter  Hope everyone is ok during this pandemic.</description>
+    </item>
     
     <item>
       <title>Luqman Shofuleji</title>
@@ -535,19 +548,6 @@ You can find me at
 title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18
 draft: false About me Hello All,
 I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://techprimers.github.io/public/contributors/wayiok/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/wayiok/</guid>
-      <description>##ABOUT ME
-Hi, I&amp;rsquo;m Washington.
-I am currently a student in the National Polytechnic School based in Quito - Ecuador. This is my first contribution to open source software.
-You can find me at:
- LinkedIn Github Twitter  Hope everyone is ok during this pandemic.</description>
     </item>
     
     <item>

@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/wayiok/",
+        "title": "Washington",
+        "section": "contributors",
+        "date" : "2020.04.28",
+        "body": "##ABOUT ME\nHi, I\u0026rsquo;m Washington.\nI am currently a student in the National Polytechnic School based in Quito - Ecuador. This is my first contribution to open source software.\nYou can find me at:\n LinkedIn Github Twitter  Hope everyone is ok during this pandemic.\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/luqman/",
         "title": "Luqman Shofuleji",
         "section": "contributors",
@@ -341,14 +349,6 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": " hi im shashank bhari new\ntitle: \u0026ldquo;Shashank Bhari\u0026rdquo; date: 2019-10-18\ndraft: false About me Hello All,\nI\u0026rsquo;m Shashank Bhari. I\u0026rsquo;m new to open source world.\n"
-    }
-,
-    {
-        "ref": "https://techprimers.github.io/public/contributors/wayiok/",
-        "title": "",
-        "section": "contributors",
-        "date" : "0001.01.01",
-        "body": "##ABOUT ME\nHi, I\u0026rsquo;m Washington.\nI am currently a student in the National Polytechnic School based in Quito - Ecuador. This is my first contribution to open source software.\nYou can find me at:\n LinkedIn Github Twitter  Hope everyone is ok during this pandemic.\n"
     }
 ,
     {
