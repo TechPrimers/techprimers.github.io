@@ -1,6 +1,6 @@
 ---
 title: "Suvodeep Sinha"
-date: 15 March, 2020
+date: 2020-03-15
 draft: false
 ---
 
