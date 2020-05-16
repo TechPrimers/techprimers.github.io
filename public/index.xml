@@ -6,10 +6,21 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Akhil kumar Singh</title>
+      <link>https://techprimers.github.io/public/contributors/akhil/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/akhil/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Akhil kumar singh. This is my first contribution in open source community.
+Cheers!</description>
+    </item>
     
     <item>
       <title>Ashish jain</title>
