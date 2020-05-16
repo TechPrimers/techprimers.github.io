@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ashish jain</title>
+      <link>https://techprimers.github.io/public/ashishjain/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/ashishjain/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Ashish jain.
+I&amp;rsquo;m 2nd year student of medicaps university Indore and I love working on django (python framework). I love to explore new technology and very much interested in open source.
+You can find me at
+https://github.com/ashish4913</description>
+    </item>
     
     <item>
       <title>Washington</title>
