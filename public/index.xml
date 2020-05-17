@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Syed Ayaz</title>
+      <link>https://techprimers.github.io/public/contributors/syedayazsa/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/syedayazsa/</guid>
+      <description>About me Hii Everyone.
+I am Syed Ayaz :)
+I am a CS student at VIT-Vellore.
+You can find me at
+ LinkedIn Github  Thanks&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Washington</title>
@@ -472,19 +485,6 @@ You can find me at
 I am Shashank. It&amp;rsquo;s been a while being in software industry.
 It is exciting to be here.
 Cheers !</description>
-    </item>
-    
-    <item>
-      <title>Syed Ayaz</title>
-      <link>https://techprimers.github.io/public/contributors/syedayazsa/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/syedayazsa/</guid>
-      <description>About me Hii Everyone.
-I am Syed Ayaz :)
-I am a CS student at VIT-Vellore.
-You can find me at
- LinkedIn Github  Thanks&amp;hellip;</description>
     </item>
     
     <item>
