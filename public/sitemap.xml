@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/akhil/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,18 @@
   <url>
     <loc>https://techprimers.github.io/public/contributors/syedayazsa/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/ashishjain/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
