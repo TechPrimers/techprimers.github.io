@@ -6,10 +6,19 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ambuj SIngh</title>
+      <link>https://techprimers.github.io/public/contributors/singhambuj/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/singhambuj/</guid>
+      <description>Hello All Myself Ambuj Singh an engineering 1st year student. Thank you for awesome guidance :) This is going to be my first open source contribution, Its a very good start, Thank you TechPrimers. Happy Coding!</description>
+    </item>
     
     <item>
       <title>Ashwin Jayan</title>
