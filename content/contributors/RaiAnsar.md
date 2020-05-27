@@ -12,7 +12,7 @@ I'm Rai Ansar, 5th semester Student of Software Engineering.
 I'm  **Flutter App Developer** with 6 months of experience and 3 years of IT industry experience. 
 Other than Flutter I've worked on **Java**, Python, MySQL and many other technologies.
 
-    Interestingly I want to be a Cloud NTIVE Computing Dev/Engineer.
+    Interestingly I want to be a Cloud NATIVE Computing Dev/Engineer.
 
 You can find me at
 
