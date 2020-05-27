@@ -9,8 +9,11 @@ Hey Open Sorceres (pun intended),
 
 I'm Rai Ansar, 5th semester Student of Software Engineering.
 
-I'm  **Flutter App Developer** with 6 month experience and 3 years of IT industry experience, other than Flutter
-I've worked on **Java**, Python, MySQL and many other technologies.
+I'm  **Flutter App Developer** with 6 months of experience and 3 years of IT industry experience. 
+Other than Flutter I've worked on **Java**, Python, MySQL and many other technologies.
+
+    Interestingly I want to be a Cloud NTIVE Computing Dev/Engineer.
+
 You can find me at
 
  - [*Github*](https://github.com/RaiAnsar)
