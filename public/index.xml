@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rajapandian C</title>
+      <link>https://techprimers.github.io/public/contributors/rajapandian/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/rajapandian/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Rajapandian, working as a Software Engineer for an Italian Group of BFSI.
+Most of my work falls in the area of Integration Technologies [Oracle SOA Suite &amp;amp; Mule ESB], Microservices [Spring Boot] and Blockchain [R3 Corda].
+I post my works to Github at crpdev.
+I am very active on LinkedIn and collaborate with people on their learning paths and discuss technical topics. Feel free to connect with me on LinkedIn.</description>
+    </item>
     
     <item>
       <title>Ambuj SIngh</title>
