@@ -6,10 +6,22 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vatsal Bhatnagar</title>
+      <link>https://techprimers.github.io/public/contributors/vatsal/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/vatsal/</guid>
+      <description> About me Hello All,
+I&amp;rsquo;m Vatsal Bhatnagar . I am a java developer. I am new to open source.
+You can find me at:-
+ Github  </description>
+    </item>
     
     <item>
       <title>Rajapandian C</title>
