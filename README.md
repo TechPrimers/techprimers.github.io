@@ -15,6 +15,15 @@ Raise a Pull Request by adding your name to get featured in https://techprimers.
 
 Youtube video on [Hugo Example](https://www.youtube.com/watch?v=yjdJGhV6gbg)
 
+## Contributors
+
+This project exists thanks to all the people who contribute.
+<a href="https://github.com/techprimers/techprimers.github.io/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=techprimers/techprimers.github.io" />
+</a>
+
+<i>Made with [contributors-img](https://contributors-img.web.app).</i>
+
 ## Online Edit
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TechPrimers/techprimers.github.io)
 
