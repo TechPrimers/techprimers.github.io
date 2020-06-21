@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aman Jain</title>
+      <link>https://techprimers.github.io/public/contributors/amanjain/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/amanjain/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Aman Jain.
+I&amp;rsquo;m an aspiring software developer. Currently studying in Bms college of engineering, learning Full stack development ,specializing in MERN stack. JavaScript and C++ are two of my favorite languages. I use them in my day to day life to build things.
+You can find me at
+ Github Gmail  Cheers!</description>
+    </item>
     
     <item>
       <title>Vatsal Bhatnagar</title>
