@@ -305,6 +305,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/rudresh/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
   </url>
