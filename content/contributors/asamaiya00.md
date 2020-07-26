@@ -8,7 +8,7 @@ draft: false
 ## About me
 Hi All,
 
-I'm Animesh Samaiya.
+I'm Animesh.
 
 <img src="https://avatars0.githubusercontent.com/u/58809223?s=400&u=a025d9fb022825bec44ba49374e35d1ada3844c6&v=4" alt="profile" width="125"/>
 
