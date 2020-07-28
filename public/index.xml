@@ -6,7 +6,7 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,17 @@ I&amp;rsquo;m Darshan R.
 I am a Engineering student. By passion I&amp;rsquo;m learning coding. I&amp;rsquo;m interested to cotribute to the open source. This is my first contribution to the open source.
 You can find me at
  LinkedIn Github Twitter Gmail  Happy Coding!</description>
+=======
+      <title>Animesh Samaiya</title>
+      <link>https://techprimers.github.io/public/contributors/asamaiya00/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/asamaiya00/</guid>
+      <description>About me Hi All,
+I&amp;rsquo;m Animesh.
+I&amp;rsquo;m a Computer Science undergrad working on multiple technologies. I&amp;rsquo;ve worked on Python/Django, Android and Flutter. Currently I&amp;rsquo;m learning Full-stack web development using NodeJS and ReactJS.
+You can find me at:
+ LinkedIn Github Gmail  Cheers!</description>
     </item>
     
     <item>
@@ -719,7 +730,8 @@ Since then I have learnt, written and shared lots of code in Github. This reposi
       <description>About me Hey Open Sorceres (pun intended),
 I&amp;rsquo;m Rai Ansar, 5th semester Student of Software Engineering.
 I&amp;rsquo;m Flutter App Developer with 6 months of experience and 3 years of IT industry experience. Other than Flutter I&amp;rsquo;ve worked on Java, Python, MySQL and many other technologies.
-Interestingly, I want to be a Cloud NATIVE Computing Dev/Engineer. You can find me at
+Interestingly, I want to be a Cloud NATIVE Computing Dev/Engineer.
+ You can find me at
  Github LinkedIn e-Mail Me  Salut!</description>
     </item>
     
