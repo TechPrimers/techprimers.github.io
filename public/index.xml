@@ -6,10 +6,23 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sonu Sahaa</title>
+      <link>https://techprimers.github.io/public/contributors/thevirtualbuddy/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/thevirtualbuddy/</guid>
+      <description>About me Hello World;
+I&amp;rsquo;m Sonu-a novice to the world of opensource. Hope to learn more.
+Thanks!!
+You can reach me at:
+ LinkedIn Github  Have a nice day!!</description>
+    </item>
     
     <item>
       <title>Darshan R</title>
