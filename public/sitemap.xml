@@ -335,6 +335,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/sanketpathak/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
   </url>
