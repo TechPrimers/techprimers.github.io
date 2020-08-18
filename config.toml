@@ -24,6 +24,12 @@ theme = "pulp"
     pre = "<i class='fa fa-edit fa-lg'></i>"
     url = "./contributors"
     weight = 1
+    
+[[menu.main]]
+    identifier = "conferences"
+    pre = "<i class='fa fa-users-class fa-lg'></i>"
+    url = "./conferences/conferences"
+    weight = 2
 
 [[menu.main]]
     identifier = "blog"
