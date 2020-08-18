@@ -5,6 +5,18 @@
   <url>
     <loc>https://techprimers.github.io/public/conferences/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/conferences/conferences/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -16,12 +28,6 @@
   <url>
     <loc>https://techprimers.github.io/public/contributors/sanketpathak/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
