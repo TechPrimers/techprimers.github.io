@@ -14,7 +14,7 @@ theme = "pulp"
         Welcome to the TechPrimers Open Source Community.
         Click on the "edit" icon below to see contributors list. Fork the repo and check the README.md
     """
-    publicationYear = "2019"
+    publicationYear = "2020"
 
 [outputs]
     section = ["JSON", "HTML"]
@@ -27,7 +27,7 @@ theme = "pulp"
     
 [[menu.main]]
     identifier = "conferences"
-    pre = "<i class='fa fa-users-class fa-lg'></i>"
+    pre = "<i class='fa fa-blog fa-lg'></i>"
     url = "./conferences/conferences"
     weight = 2
 
