@@ -4,7 +4,7 @@ date: 2020-08-18
 draft: false
 ---
 ## Conferences/Workshops
-List of conferences/workshops which are relevant and useful for Tech enthusiasts and practioners.
+List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
 - [August 2020](#august-2020)
