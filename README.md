@@ -10,6 +10,10 @@
 
 This repository is the source code of https://techprimers.github.io/public
 
+This repo contains:
+- Conferences Links `/content/conferences`
+- New Open Source Contributors `/content/contributors`
+
 This is a opensource repository which you can fork.
 Raise a Pull Request by adding your name to get featured in https://techprimers.github.io/public/contributors/
 
