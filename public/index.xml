@@ -6,10 +6,19 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sanket Pathak</title>
+      <link>https://techprimers.github.io/public/contributors/sanketpathak/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/sanketpathak/</guid>
+      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.</description>
+    </item>
     
     <item>
       <title>Sonu Sahaa</title>
@@ -792,15 +801,6 @@ I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</descripti
       <description>About me Hey there everyone!! I&amp;rsquo;m Rudresh
 I&amp;rsquo;m just learning how to contribute in open-source. Hope to learn more.
 Thanks!!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://techprimers.github.io/public/contributors/sanketpathak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/sanketpathak/</guid>
-      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.</description>
     </item>
     
   </channel>

@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/sanketpathak/",
+        "title": "Sanket Pathak",
+        "section": "contributors",
+        "date" : "2020.08.10",
+        "body": " Hi there 👋 I\u0026rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.com - ⚡ Fun fact: I love to watch anime Connect with me:       Languages and Tools: \n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/thevirtualbuddy/",
         "title": "Sonu Sahaa",
         "section": "contributors",
@@ -509,13 +517,5 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": " About me Hey there everyone!! I\u0026rsquo;m Rudresh\nI\u0026rsquo;m just learning how to contribute in open-source. Hope to learn more.\nThanks!!\n"
-    }
-,
-    {
-        "ref": "https://techprimers.github.io/public/contributors/sanketpathak/",
-        "title": "",
-        "section": "contributors",
-        "date" : "0001.01.01",
-        "body": " Hi there 👋 I\u0026rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.com - ⚡ Fun fact: I love to watch anime Connect with me:       Languages and Tools: \n"
     }
 ]
