@@ -15,31 +15,31 @@ This page consists of conferences/workshops which are relevant and useful for Te
 - [Missing any conference?](#missing-any-conference)
 
 ### August 2020
-| Conference/Workshop         | Date            | Link  | Mode | Region/TimeZone  | Call For Papers | Comments
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | Kafka Summit 2020           | 24, 25 Aug 2020 | [Register](https://events.kafka-summit.org/2020) | Virtual (Free) | PST | Closed | |
 | JCloud Conference 2020      | 28 Aug 2020     | [Register](https://jcloud.konfhub.com/) | Virtual (Free) | India (IST) | Closed | |
 
-### September
-| Conference/Workshop         | Date            | Link  | Mode | Region/TimeZone  | Call For Papers | Comments
+### September 2020
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| Spring One 2020             | 2, 3 Sep 2020   | [Register](https://springone.io/) | Virtual (Free) | PST | Closed | |
+| Spring One 2020             | 2, 3 Sep 2020   | [Register](https://springone.io/) | Virtual (Free) | EST | Closed | |
 | AWS Serverless Workshop     | 5 Sep 2020      | [Register](https://konfhub.com/event/#/aws-serverless-workshop-3) | Virtual (Free) - Rs 200/- refundable for attendees after the workshop | India (IST) | Closed | |
 | AI Dev Day 2020             | 25 Sep 2020     | [Register](https://aidevday.konfhub.com) | Virtual (Free) | India (IST) | Closed | |
 
 
-### October
-| Conference/Workshop         | Date            | Link  | Mode | Region/TimeZone  | Call For Papers | Comments
+### October 2020
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | AWS Community Day 2020      | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
 
-### November
-| Conference/Workshop         | Date            | Link  | Mode | Region/TimeZone  | Call For Papers | Comments
+### November 2020
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | PST | Closed | |
+| AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | Closed | |
 
-### December
-| Conference/Workshop         | Date            | Link  | Mode | Region/TimeZone  | Call For Papers | Comments
+### December 2020
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 
 ### Missing any conference
