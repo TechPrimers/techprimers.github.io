@@ -25,6 +25,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | Spring One 2020             | 2, 3 Sep 2020   | [Register](https://springone.io/) | Virtual (Free) | EST | Closed | |
 | AWS Serverless Workshop     | 5 Sep 2020      | [Register](https://konfhub.com/event/#/aws-serverless-workshop-3) | Virtual (Free) - Rs 200/- refundable for attendees after the workshop | India (IST) | Closed | |
+| DevNation Day (RedHat)      | 15 Sep 2020     | [Register](https://www.crowdcast.io/e/RHD-DevNationDay/register) | Virtual (Free) | EDT | Closed | |
 | AI Dev Day 2020             | 25 Sep 2020     | [Register](https://aidevday.konfhub.com) | Virtual (Free) | India (IST) | Closed | |
 | DevOps World Program        | 22, 23, 24, 25 Sep 2020 | [Register](https://www.cloudbees.com/devops-world/register) | Virtual (Free) | Pacific Time (PT) | Closed |
 
