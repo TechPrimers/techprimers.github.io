@@ -31,7 +31,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### October 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| AWS Community Day 2020      | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
+| AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
+| All Things Open              | 19, 29 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
 
 ### November 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
