@@ -18,6 +18,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | Kafka Summit 2020           | 24, 25 Aug 2020 | [Register](https://events.kafka-summit.org/2020) | Virtual (Free) | PST | Closed | |
+| AWS Builders Online Series  | 27 Aug 2020     | [Register](https://aws.amazon.com/events/builders-online-series/?sc_channel=em&sc_campaign=APAC_FIELD_WEBINAR_aws-builders-series_20200827_7010z000001Llk8&sc_publisher=aws&sc_content=field_webinar_field&sc_country=mult&sc_geo=apac&sc_category=mult&sc_outcome=field&campaign-id=em_builder_series&trkCampaign=builders-online-series&trk=em_builder_series20q3_conf&mkt_tok=eyJpIjoiTkdKa1pHTmlOV0V6WkdWaCIsInQiOiIyQlIzYWtMSlI5aTc5aVZcL085d2FEdUpKSUJMa09jSWRueURST2pcL0crR291Mm42Z3VBYmE2ZldRY2JpRVdRN2VoUHVOaUNFbGR6VnQxWkhGb1kybDA4djZBUGM4OU92QlZQWk1ZMGxxQ0xDSTFmU29uQXN6XC9WU2tJOVJvRHFnYTA0WVhmNUNBR3VUMVBVeHYxNnRYWEE9PSJ9#agenda) | Virtual (Free) | India (IST) | Closed | |
 | JCloud Conference 2020      | 28 Aug 2020     | [Register](https://jcloud.konfhub.com/) | Virtual (Free) | India (IST) | Closed | |
 
 ### September 2020
