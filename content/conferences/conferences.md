@@ -27,6 +27,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Spring One 2020             | 2, 3 Sep 2020   | [Register](https://springone.io/) | Virtual (Free) | EST | Closed | |
 | AWS Serverless Workshop     | 5 Sep 2020      | [Register](https://konfhub.com/event/#/aws-serverless-workshop-3) | Virtual (Free) - Rs 200/- refundable for attendees after the workshop | India (IST) | Closed | |
 | DevNation Day (RedHat)      | 15 Sep 2020     | [Register](https://www.crowdcast.io/e/RHD-DevNationDay/register) | Virtual (Free) | EDT | Closed | |
+| OpenJam (Open Source Game Jam | 18 Sep 2020     | [Register](https://itch.io/jam/open-jam-2020) | Virtual (Free) | Pacific Time | Closed | |
 | AI Dev Day 2020             | 25 Sep 2020     | [Register](https://aidevday.konfhub.com) | Virtual (Free) | India (IST) | Closed | |
 | DevOps World Program        | 22, 23, 24, 25 Sep 2020 | [Register](https://www.cloudbees.com/devops-world/register) | Virtual (Free) | Pacific Time (PT) | Closed |
 
@@ -34,6 +35,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### October 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
+| arm Dev Summit 2020         | 6, 7, 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
 | AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
 | All Things Open              | 19, 29 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
 
