@@ -4,12 +4,13 @@ date: 2020-08-28
 draft: false
 ---
 
-##About me
+## About me
+
 Hello All,
 
-I'm Hrushikesh Das, a full stack web developer,graphic designer, content writer.Working as a web developer Intern at The Renal Project. Work on Linux, React js, PHP, MySQL, Git with GitHub, Adobe Photoshop and many other technologies.Eager to learn technologies and to share. I also have experience of mentorship in "Hack in Mountain's" hackathon.
+I'm Hrushikesh Das, a **full stack web developer,graphic designer, content writer**.Working as a web developer Intern at [The Renal Project](https://www.therenalproject.com/). Work on Linux, React js, PHP, MySQL, Git with GitHub, Adobe Photoshop and many other technologies.Eager to learn technologies and to share. I also have experience of mentorship in **"Hack in Mountain's"** hackathon.
 
-"Success has no limits, so don't limit your success." - Anonymous
+**"Success has no limits, so don't limit your success." - Anonymous**
 
 You can find me at
 
