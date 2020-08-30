@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechPrimers Open Source</title>
@@ -43,7 +43,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
       <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
-Table of Contents  August 2020 September 2020 October 2020 November 2020 December 2020 Missing any conference?  August 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     Kafka Summit 2020 24, 25 Aug 2020 Register Virtual (Free) PST Closed    AWS Builders Online Series 27 Aug 2020 Register Virtual (Free) India (IST) Closed    JCloud Conference 2020 28 Aug 2020 Register Virtual (Free) India (IST) Closed     September 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     Spring One 2020 2, 3 Sep 2020 Register Virtual (Free) EST Closed    AWS Serverless Workshop 5 Sep 2020 Register Virtual (Free) - Rs 200/- refundable for attendees after the workshop India (IST) Closed    DevOps India Summit 2020 9 Sep 2020 Register Virtual (Free) India (IST) Closed    DevNation Day (RedHat) 15 Sep 2020 Register Virtual (Free) EDT Closed    OpenJam (Open Source Game Jam 18 Sep 2020 Register Virtual (Free) Pacific Time Closed    AI Dev Day 2020 25 Sep 2020 Register Virtual (Free) India (IST) Closed    DevOps World Program 22, 23, 24, 25 Sep 2020 Register Virtual (Free) Pacific Time (PT) Closed     October 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     arm Dev Summit 2020 6, 7, 8 Oct 2020 Register Virtual (Free) Pacific Time (PDT) Closed    AWS Community Day 2020 16, 17 Oct 2020 Register Virtual (Free) India (IST) Closed    All Things Open 19, 29 Oct 2020 Register Virtual (Free for first 10k) Raleigh (EDT) Closed     November 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     AWS re:Invent 2020 30 Nov - 18 Dec 2020 Register Virtual (Free) Unknown Closed     December 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments      Missing any conference Do raise a pull request to this repo to add/update conference information.</description>
+Table of Contents  August 2020 September 2020 October 2020 November 2020 December 2020 Missing any conference?  August 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     Kafka Summit 2020 24, 25 Aug 2020 Register Virtual (Free) PST Closed    AWS Builders Online Series 27 Aug 2020 Register Virtual (Free) India (IST) Closed    JCloud Conference 2020 28 Aug 2020 Register Virtual (Free) India (IST) Closed     September 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     Spring One 2020 2, 3 Sep 2020 Register Virtual (Free) EST Closed    AWS Serverless Workshop 5 Sep 2020 Register Virtual (Free) - Rs 200/- refundable for attendees after the workshop India (IST) Closed    DevOps India Summit 2020 9 Sep 2020 Register Virtual (Free) India (IST) Closed    DevNation Day (RedHat) 15 Sep 2020 Register Virtual (Free) EDT Closed    OpenJam (Open Source Game Jam 18 Sep 2020 Register Virtual (Free) Pacific Time Closed    AI Dev Day 2020 25 Sep 2020 Register Virtual (Free) India (IST) Closed    DevOps World Program 22, 23, 24, 25 Sep 2020 Register Virtual (Free) Pacific Time (PT) Closed     October 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     arm Dev Summit 2020 6, 7, 8 Oct 2020 Register Virtual (Free) Pacific Time (PDT) Closed    AWS Community Day 2020 16, 17 Oct 2020 Register Virtual (Free) India (IST) Closed    All Things Open 19, 29 Oct 2020 Register Virtual (Free for first 10k) Raleigh (EDT) Closed     November 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments     AWS re:Invent 2020 30 Nov - 18 Dec 2020 Register Virtual (Free) Unknown Closed     December 2020    Conference/Workshop Date Link Mode Region / TimeZone Call For Papers Comments    Missing any conference Do raise a pull request to this repo to add/update conference information.</description>
     </item>
     
     <item>
@@ -65,7 +65,8 @@ You can also find me at
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/sanketpathak/</guid>
-      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.</description>
+      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies.
+ 💬 Ask me about anything 🌱 I’m currently exploring new technologies 📫 How to reach me: sanketpathak64@gmail.com ⚡ Fun fact: I love to watch anime   Connect with me:       Languages and Tools: </description>
     </item>
     
     <item>
@@ -90,8 +91,8 @@ You can reach me at:
       <description>About me Hello All,
 I&amp;rsquo;m Darshan R.
 I am a Engineering student. By passion I&amp;rsquo;m learning coding. I&amp;rsquo;m interested to cotribute to the open source. This is my first contribution to the open source.
-You can find me at - LinkedIn - Github - Twitter - Gmail
-Happy Coding!</description>
+You can find me at
+ LinkedIn Github Twitter Gmail  Happy Coding!</description>
     </item>
     
     <item>
@@ -144,7 +145,8 @@ You can find me at
 My name is Wilmer Zuna.
 I&amp;rsquo;m a Stanford Undergraduate student studying Computer Science. During my free time, I love to learn new things and experiment with new concepts and/or ideas that will help me improve both as a scholar and as a professional.
 My favorite languages are Python and C++. I also love teaching.
-My social media as well as professional platforms are the following:</description>
+My social media as well as professional platforms are the following:
+ LinkedIn GitHub Facebook Instagram Twitter  I hope that you are doing well during these times of challenge and resilience.</description>
     </item>
     
     <item>
@@ -166,7 +168,7 @@ You can find me at
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/vatsal/</guid>
-      <description> About me Hello All,
+      <description>About me Hello All,
 I&amp;rsquo;m Vatsal Bhatnagar . I am a java developer. I am new to open source.
 You can find me at:-
  Github  </description>
@@ -318,8 +320,8 @@ You can find me at
 I am Srikanth Ac.
 I am web developer currently working in vue.js in Bangalore.I love JavaScript .
 Interests Include Cricket , Football and Formula 1.
-You can find me at - Github
-Cheers!</description>
+You can find me at
+ Github  Cheers!</description>
     </item>
     
     <item>
@@ -384,8 +386,8 @@ When I&amp;rsquo;m exploring new tools and technology , I learned by self intere
       <description>About me Hello All,
 I&amp;rsquo;m Anshu. Currently, I&amp;rsquo;m an undergraduate studate pursuing B.Tech in Computer Science and Engineering at IIIT Kalyani.
 I&amp;rsquo;m a web developer. I actively contribute to Open Source Organizations to gain experience in software development field.
-You can find me at: - Github - Linkedin - Gmail
-Happy Coding!</description>
+You can find me at:
+ Github Linkedin Gmail  Happy Coding!</description>
     </item>
     
     <item>
@@ -572,7 +574,7 @@ I&amp;rsquo;m student in 2nd year CSE, having done Competitive programming durin
       <description>About me Hi, I’m Jigar, I am MEAN Stack Developer with 2+ years of experience. I have recently started for Searching for Open Source Projects in which I can contribute.
 Apart from Coding, I like to travel and meet New people.
 You can find me at these places but the most reliable way to reach me is to send an email.
-- LinkedIn - Github - Gmail</description>
+ LinkedIn Github Gmail  </description>
     </item>
     
     <item>
@@ -703,7 +705,8 @@ Myself Virendra Yadav,
 I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp;amp; IoT based solutions.
 I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow.
 Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.
-You can find me at</description>
+You can find me at
+ LinkedIn Github Blog Gmail  Cheers!</description>
     </item>
     
     <item>
@@ -848,8 +851,7 @@ You can find me at
       
       <guid>https://techprimers.github.io/public/contributors/bhari/</guid>
       <description>hi im shashank bhari new
-title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18
-draft: false About me Hello All,
+ title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18 draft: false About me Hello All,
 I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
     </item>
     
