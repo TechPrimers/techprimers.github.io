@@ -3,23 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://techprimers.github.io/public/contributors/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <loc>https://techprimers.github.io/public/contributors/aryankadiya/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://techprimers.github.io/public/contributors/hrushikeshdas/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <loc>https://techprimers.github.io/public/contributors/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/conferences/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
