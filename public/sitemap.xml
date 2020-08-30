@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
-
     <priority>0</priority>
   </url>
   
@@ -15,10 +14,14 @@
   </url>
   
   <url>
-
     <loc>https://techprimers.github.io/public/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/khantosif/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -369,14 +372,17 @@
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/bhari/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/rudresh/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
