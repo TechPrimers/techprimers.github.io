@@ -38,6 +38,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | arm Dev Summit 2020         | 6, 7, 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
 | AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
+| DevFestIndia 2020       | 16, 17, 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | Closed | |
 | All Things Open              | 19, 29 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
 | Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual | EDT | Closed | |
 
