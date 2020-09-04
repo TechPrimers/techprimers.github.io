@@ -6,10 +6,21 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yusrana Yoosuff</title>
+      <link>https://techprimers.github.io/public/contributors/yusrana/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/yusrana/</guid>
+      <description>About me Hello All,
+Yusrana here, trying to figure out how Open Source Contributions work! Ofcourse, this is my first contr! :)
+Cheers!</description>
+    </item>
     
     <item>
       <title>Shubham Vaidya</title>
@@ -665,17 +676,6 @@ I&amp;rsquo;m Sagar Bathini.
 I&amp;rsquo;m a Software Developer with 3+ years of IT industry experience, worked on automation testing(Coded UI) and JAVA enterprise applications.
 You can find me at
  Github Gmail  Cheers!</description>
-    </item>
-    
-    <item>
-      <title>Sagar Bathini</title>
-      <link>https://techprimers.github.io/public/contributors/yusrana/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/yusrana/</guid>
-      <description>About me Hello All,
-Yusrana here, trying to figure out how Open Source Contributions work! Ofcourse, this is my first contr! :)
-Cheers!</description>
     </item>
     
     <item>
