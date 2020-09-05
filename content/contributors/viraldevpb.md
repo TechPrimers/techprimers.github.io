@@ -9,7 +9,7 @@ Hello All,
 
 I'm Viraldevpb
 
-<img src="https://avatars2.githubusercontent.com/u/66899360?s=400&u=62afd80d52fe0879dff7af35121e81dab7222ef5&v=4"/>
+<img src="https://avatars2.githubusercontent.com/u/66899360?s=400&u=62afd80d52fe0879dff7af35121e81dab7222ef5&v=4" />
 
 As expected, I'm a **Website developer** with a focus on configuring Web applications using React and Other web Technologies.
 
