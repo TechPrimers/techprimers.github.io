@@ -42,6 +42,19 @@ Cheers!</description>
     </item>
     
     <item>
+      <title>viraldevpb</title>
+      <link>https://techprimers.github.io/public/contributors/viraldevpb/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/viraldevpb/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Viraldevpb
+As expected, I&amp;rsquo;m a Website developer with a focus on configuring Web applications using React and Other web Technologies.
+You can find me at
+ LinkedIn Github Gmail  Cheers!</description>
+    </item>
+    
+    <item>
       <title>Shubham Vaidya</title>
       <link>https://techprimers.github.io/public/contributors/shubhamvaidya/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
@@ -913,19 +926,6 @@ I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</descripti
       <description>About me Hey there everyone!! I&amp;rsquo;m Rudresh
 I&amp;rsquo;m just learning how to contribute in open-source. Hope to learn more.
 Thanks!!</description>
-    </item>
-    
-    <item>
-      <title>viraldevpb</title>
-      <link>https://techprimers.github.io/public/contributors/viraldevpb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/viraldevpb/</guid>
-      <description>About me Hello All,
-I&amp;rsquo;m Viraldevpb
-As expected, I&amp;rsquo;m a Website developer with a focus on configuring Web applications using React and Other web Technologies.
-You can find me at
- LinkedIn Github Gmail  Cheers!</description>
     </item>
     
   </channel>

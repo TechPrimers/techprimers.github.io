@@ -30,6 +30,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/viraldevpb/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/shubhamvaidya/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url>
@@ -398,10 +403,6 @@
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://techprimers.github.io/public/contributors/viraldevpb/</loc>
   </url>
   
 </urlset>
