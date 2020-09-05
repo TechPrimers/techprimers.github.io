@@ -1,6 +1,7 @@
 language: bash
 
 install:
+  - ls -lrt
   - rm -rf public/
   - echo "Cleaned up public folder..."
   - chmod +x ./deploy.sh
