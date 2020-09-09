@@ -2,6 +2,7 @@ baseURL = "https://techprimers.github.io/public"
 languageCode = "en-us"
 title = "TechPrimers Open Source"
 theme = "pulp"
+googleAnalytics = "UA-168431122-1"
 
 [taxonomies]
   series = "series"
