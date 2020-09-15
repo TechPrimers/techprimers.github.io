@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+<body>
+<div id="profileContainer">
+    <div id="profile">
+        <header>
+            <!-- avator -->
+            <div class="avatar">
+                <img class="avatarMask" src="./img/{{ .Site.Params.avatar }}" alt="avatar">
+                <img src="./img/avatar-border.svg" alt="avatar-border">
+            </div>
+            <!-- author -->
+            <h1 class="author">{{ .Site.Params.Author }}</h1>
+        </header>
+        <!-- description -->
+        <p>
+            {{ .Site.Params.description }}
+        </p>
+        <!-- navigation -->
+        <nav>
+            <ul>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}" aria-label="{{ .Identifier }}">{{ .Pre }}<br>{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</div>
+{{- partial "footer.html" . -}}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--     
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168431122-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168431122-1');
+</script> -->
+</body>
+</html>

@@ -1,0 +1,172 @@
+/* General */
+body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  min-height:100vh;
+  margin: 0;
+  padding: 20px;
+  box-sizing:border-box;
+  background-color: #EFEFEF;
+  color: #707070;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.5;
+  font-size: 16px;
+  word-wrap: break-word;
+}
+
+a:link {
+  color: #707070;
+}
+
+a:visited {
+  color: #707070;
+}
+
+a:hover {
+  color: #707070;
+}
+
+a:active {
+  color: #707070;
+}
+
+/* Header */
+header .avatar {
+  position: relative;
+  height: 100px;
+}
+
+header .avatar img {
+  position: absolute;
+  width: 100px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+
+header .avatarMask {
+  clip-path: circle(48px at center);
+  -webkit-clip-path: circle(48px at center);
+}
+
+/* Footer */
+footer {
+  font-size: 12px;
+  box-sizing:border-box;
+}
+
+/* Top page */
+#profileContainer {
+  min-height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#profile {
+  max-width: 600px;
+  /* min-width: 300px; */
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 300px;
+  margin: 20px auto;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  flex: 1;
+}
+
+/* Contents List */
+#searchBox {
+  position: relative;
+  max-width: 300px;
+  height: 30px;
+  margin: 20px auto;
+}
+
+#searchBox #searchBoxInput {
+  position: absolute;
+  width: 100%;
+  padding: 0 35px 0 15px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 15px;
+  outline: 0;
+  font-size: 15px;
+  color: #707070;
+  background-color:#f6f6f6;
+  border: solid 1px #c9c9c9;
+  box-sizing: border-box;
+}
+
+#searchBox #searchBoxInput::placeholder {
+  color: #c9c9c9;
+}
+
+#searchBox #searchBoxIcon {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  top: 5px;
+  right: 10px;
+}
+
+#searchResults {
+  display: none;
+  position: absolute;
+  max-width: 600px;
+  /* min-width: 300px; */
+  margin: 0 auto;
+  top: 240px;
+  left: 0;
+  right: 0;
+  padding: 5px;
+  background-color:#f6f6f6;
+  border: solid 1px #c9c9c9;
+  border-radius: 5px;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+#searchResults .searchResultPage {
+  padding: 20px
+}
+
+#searchResults .searchResultTitle {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+#searchResults .searchResultBody {
+  font-size: 14px;
+}
+
+#searchResults mark {
+  background-color: #dddfdf;
+}
+
+#contentsList {
+  padding: 20px 0;
+}
+
+#contentsList hr.separator {
+  width: 10px;
+  margin: 30px auto;
+  border: solid 1px #c9c9c9;
+}
+
+/* Page */
+#contentBody {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 0;
+  text-align: left;
+}
