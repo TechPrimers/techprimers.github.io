@@ -6,10 +6,21 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shoury Sharma</title>
+      <link>https://techprimers.github.io/public/contributors/shourysharma/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/shourysharma/</guid>
+      <description> About me Hey everyone, I am Shoury Sharma, Second year undergraduate at NIT-B. Basically i am a Learner and going through Android Development and Web Development. I&amp;rsquo;ve worked on C,Python,R,Kotlin and Javascript
+Ambition- To discover more about Android, Linux and Machine Learning.
+Contact-  LinkedIn Github Gmail Instagram  </description>
+    </item>
     
     <item>
       <title>Anjali</title>
