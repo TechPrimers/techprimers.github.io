@@ -38,6 +38,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
 | arm Dev Summit 2020         | 6, 7, 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
 | Hashicorp Digital 2020         | 12-15 Oct 2020 | [Register](https://hashiconf.com/digital-october/registration/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
+| Connect.ONLINE Couchbase conference 2020         | 14-16 Oct 2020 | [Register](https://www.connect.couchbase.com/) | Virtual ($50) | Pacific Time (PDT) | Closed | | 
 | EnvoyCon 2020         |15 Oct 2020 | [Register](https://events.linuxfoundation.org/envoycon/register/) | Virtual ($50) | Pacific Time (PDT) | Closed | | 
 | AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
 | DevFestIndia 2020       | 16, 17, 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | Closed | |
