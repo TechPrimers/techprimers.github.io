@@ -36,7 +36,9 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### October 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| arm Dev Summit 2020         | 6, 7, 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
+| Cloud Native Virtual Summit ft. Kubernetes 2020         | 6 - 8 Oct 2020 | [Register](https://www.cloud-native-summit.com/#register) | Virtual (Free) | Pacific Time (PDT) | Closed | |
+| arm Dev Summit 2020         | 6 - 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
+
 | Hashicorp Digital 2020         | 12-15 Oct 2020 | [Register](https://hashiconf.com/digital-october/registration/) | Virtual (Free) | Pacific Time (PDT) | Closed |
 | Connect.ONLINE Couchbase conference 2020         | 14-16 Oct 2020 | [Register](https://connect.couchbase.com/?utm_source=sed&utm_medium=podcast&utm_campaign=connect_online20) | Virtual (Free) | Pacific Time (PDT) | Closed | | 
 | EnvoyCon 2020         |15 Oct 2020 | [Register](https://events.linuxfoundation.org/envoycon/register/) | Virtual ($50) | Pacific Time (PDT) | Closed | | 
