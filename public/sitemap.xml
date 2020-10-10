@@ -426,6 +426,11 @@
   </url>
   
   <url>
+    <loc>https://techprimers.github.io/public/contributors/harshitjaiswal27/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://techprimers.github.io/public/contributors/rudresh/</loc>
     <priority>0</priority>
   </url>
@@ -437,6 +442,10 @@
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/sohamchakraborty/</loc>
   </url>
   
 </urlset>
