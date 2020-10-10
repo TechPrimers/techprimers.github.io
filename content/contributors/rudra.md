@@ -1,3 +1,9 @@
+---
+title: "Rudra"
+date: 2020-10-01
+draft: false
+---
+
 Hello All,
 
 I'm Rudra.
