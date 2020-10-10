@@ -6,10 +6,22 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Suprodip Kundu</title>
+      <link>https://techprimers.github.io/public/contributors/suprodipkundu/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/suprodipkundu/</guid>
+      <description>About me Hello all,
+I am Suprodip Kundu,this is my first Open Source Contribution.
+Thank You TechPrimers.
+Happy Programming!!!</description>
+    </item>
     
     <item>
       <title>Amar Shukla</title>
