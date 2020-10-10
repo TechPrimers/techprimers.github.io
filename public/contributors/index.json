@@ -1,10 +1,26 @@
 [
     {
-        "ref": "https://techprimers.github.io/public/contributors/rafid/",
-        "title": "R.D",
+        "ref": "https://techprimers.github.io/public/contributors/suprodipkundu/",
+        "title": "Suprodip Kundu",
         "section": "contributors",
-        "date" : "2020.10.03",
-        "body": "About me Hey,\nThis is Rafid from Bangladesh. I am currently studying in the 10th grade.\nCheers!\n"
+        "date" : "2020.10.02",
+        "body": " About me Hello all,\nI am Suprodip Kundu,this is my first Open Source Contribution.\nThank You TechPrimers.\nHappy Programming!!!\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/gyan/",
+        "title": "Gyan",
+        "section": "contributors",
+        "date" : "2020.10.01",
+        "body": "hii, i am gyan\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/musavveer/",
+        "title": "Musavveer Rehaman",
+        "section": "contributors",
+        "date" : "2020.10.01",
+        "body": " About me Hello All,\nI\u0026rsquo;m Musavveer Rehaman.\nI\u0026rsquo;m currently pursuing my BE in Computer Science \u0026amp; Engineering. I\u0026rsquo;m ready to work on new ideas. I\u0026rsquo;m good at Python,C/C++. You can find me active on any social media.\nYou can find me at\n LinkedIn Github Gmail  Cheers!\n"
     }
 ,
     {
@@ -640,10 +656,34 @@
     }
 ,
     {
+        "ref": "https://techprimers.github.io/public/contributors/harshitjaiswal27/",
+        "title": "",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " Hi there, I\u0026rsquo;m Harshit! 👋 [](https://twitter.com/_harshitjaiswal) [](https://www.linkedin.com/in/harshitjaiswal27/) [](https://www.facebook.com/people/Harshit-Jaiswal/100007037250467) [](https://www.instagram.com/__harshitjaiswal__/) [![Visits Badge](https://badges.pufler.dev/visits/harshitjaiswal27/harshitjaiswal27?style=for-the-badge)](https://github.com/harshitjaiswal27/harshitjaiswal27) I\u0026rsquo;m a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science \u0026amp; Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.\n\nLanguages and Tools:\n      \n\n\n\n\n\n \n \n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/rudresh/",
         "title": "",
         "section": "contributors",
         "date" : "0001.01.01",
         "body": "About me Hey there everyone!! I'm Rudresh\nI'm just learning how to contribute in open-source. Hope to learn more.\nThanks!!\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/ajithraja/",
+        "title": "Ajithraja Balaraman",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " About me Hello All,\nI\u0026rsquo;m Ajithraja Balaraman. I work as a Java developer. To know more about me you can visit my linkedIn and github profile attached below. Have a good day.\n LinkedIn Github  "
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/sohamchakraborty/",
+        "title": "Soham Chakraborty",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " About me About me Helo all,\nI am a new to Open Source Community. This is my first Contribution.\nHappy Contributing!!!\nYou can find me at\n LinkedIn Github Gmail  Thank You\n"
     }
 ]
