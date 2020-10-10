@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/suprodipkundu/",
+        "title": "Suprodip Kundu",
+        "section": "contributors",
+        "date" : "2020.10.02",
+        "body": " About me Hello all,\nI am Suprodip Kundu,this is my first Open Source Contribution.\nThank You TechPrimers.\nHappy Programming!!!\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/amarshukla/",
         "title": "Amar Shukla",
         "section": "contributors",
@@ -637,5 +645,13 @@
         "section": "contributors",
         "date" : "0001.01.01",
         "body": " About me Hey there everyone!! I\u0026rsquo;m Rudresh\nI\u0026rsquo;m just learning how to contribute in open-source. Hope to learn more.\nThanks!!\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/ajithraja/",
+        "title": "Ajithraja Balaraman",
+        "section": "contributors",
+        "date" : "0001.01.01",
+        "body": " About me Hello All,\nI\u0026rsquo;m Ajithraja Balaraman. I work as a Java developer. To know more about me you can visit my linkedIn and github profile attached below. Have a good day.\n LinkedIn Github  "
     }
 ]
