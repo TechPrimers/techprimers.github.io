@@ -1,3 +1,9 @@
+---
+title: "Harshit
+date: 2020-10-01
+draft: false
+---
+
 ### Hi there, I'm [Harshit!](https://harshitjaiswal27.github.io/Portfolio/) 👋 
 
 <p align = "center">
