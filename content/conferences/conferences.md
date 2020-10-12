@@ -43,8 +43,9 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Connect.ONLINE Couchbase conference 2020         | 14-16 Oct 2020 | [Register](https://connect.couchbase.com/?utm_source=sed&utm_medium=podcast&utm_campaign=connect_online20) | Virtual (Free) | Pacific Time (PDT) | Closed | | 
 | EnvoyCon 2020         |15 Oct 2020 | [Register](https://events.linuxfoundation.org/envoycon/register/) | Virtual ($50) | Pacific Time (PDT) | Closed | | 
 | AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
-| DevFestIndia 2020       | 16, 17, 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | Closed | |
-| All Things Open              | 19, 29 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
+| DevFestIndia 2020       | 16 - 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | Closed | |
+| All Things Open              | 19, 20 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
+| SnykCon 2020                  | 21, 22 Oct 2020 | [Register](https://snyk.io/snykcon/) | (Virtual (Free) | BST | Closed | |
 | Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual (Free) | EDT | Closed | |
 | Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/) | Virtual (Free) | India (IST) | Closed | |
 
