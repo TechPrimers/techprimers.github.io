@@ -54,7 +54,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### November 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| Postman Galaxy 2020         | 17 Nov - 19 Nov 2020.  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | Closed | | 
+| Postman Galaxy 2020         | 17 Nov - 19 Nov 2020.  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | Closed | |  
+| Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT | Closed | |
 | Azure Community Day India 2020 | 24 - 26 Nov 2020   | [Register](https://www.azconf.dev/?aff=Chennai-Microsoft-Azure-User-Group#tickets) | Virtual (Free) | IST | Closed | |
 | AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | Closed | |
 
