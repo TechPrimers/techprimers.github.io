@@ -34,30 +34,30 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 
 
 ### October 2020
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
-| Cloud Native Virtual Summit ft. Kubernetes 2020         | 6 - 8 Oct 2020 | [Register](https://www.cloud-native-summit.com/#register) | Virtual (Free) | Pacific Time (PDT) | Closed | |
-| arm Dev Summit 2020         | 6 - 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | Closed | |
-| Hashicorp Digital 2020         | 12-15 Oct 2020 | [Register](https://hashiconf.com/digital-october/registration/) | Virtual (Free) | Pacific Time (PDT) | Closed |
-| PluralSight Live 2020         | 13-16 Oct 2020 | [Register](https://www.pluralsight.com/live/registration) | Virtual (Free) | Pacific Time (PDT) | Closed | | 
-| Connect.ONLINE Couchbase conference 2020         | 14-16 Oct 2020 | [Register](https://connect.couchbase.com/?utm_source=sed&utm_medium=podcast&utm_campaign=connect_online20) | Virtual (Free) | Pacific Time (PDT) | Closed | | 
-| EnvoyCon 2020         | 15 Oct 2020 | [Register](https://events.linuxfoundation.org/envoycon/register/) | Virtual ($50) | Pacific Time (PDT) | Closed | | 
-| React Summit         | 15, 16 Oct 2020 | [Register](https://reactsummit.com/) | Virtual (Base - Free, Rest - Chargeable) | EST | Closed | | 
-| AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | Closed | |
-| DevFestIndia 2020       | 16 - 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | Closed | |
-| All Things Open              | 19, 20 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | Closed | |
-| API World Hackathon 2020          | 19 - 30 Oct 2020 | [Register](https://www.eventbrite.com/e/api-world-2020-hackathon-registration-111188226980) | Virtual (Free) | EDT | Closed | |
-| SnykCon 2020                  | 21, 22 Oct 2020 | [Register](https://snyk.io/snykcon/) | (Virtual (Free) | BST | Closed | |
-| Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual (Free) | EDT | Closed | |
-| Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/) | Virtual (Free) | India (IST) | Closed | |
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone   | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Cloud Native Virtual Summit ft. Kubernetes 2020         | 6 - 8 Oct 2020 | [Register](https://www.cloud-native-summit.com/#register) | Virtual (Free) | Pacific Time (PDT) | |
+| arm Dev Summit 2020         | 6 - 8 Oct 2020 | [Register](https://devsummit.arm.com/) | Virtual (Free) | Pacific Time (PDT) | |
+| Hashicorp Digital 2020         | 12-15 Oct 2020 | [Register](https://hashiconf.com/digital-october/registration/) | Virtual (Free) | Pacific Time (PDT) |
+| PluralSight Live 2020         | 13-16 Oct 2020 | [Register](https://www.pluralsight.com/live/registration) | Virtual (Free) | Pacific Time (PDT) | | 
+| Connect.ONLINE Couchbase conference 2020         | 14-16 Oct 2020 | [Register](https://connect.couchbase.com/?utm_source=sed&utm_medium=podcast&utm_campaign=connect_online20) | Virtual (Free) | Pacific Time (PDT) | | 
+| EnvoyCon 2020         | 15 Oct 2020 | [Register](https://events.linuxfoundation.org/envoycon/register/) | Virtual ($50) | Pacific Time (PDT) | | 
+| React Summit         | 15, 16 Oct 2020 | [Register](https://reactsummit.com/) | Virtual (Base - Free, Rest - Chargeable) | EST | | 
+| AWS Community Day 2020       | 16, 17 Oct 2020 | [Register](https://communityday.awsug.in/) | Virtual (Free) | India (IST) | |
+| DevFestIndia 2020       | 16 - 18 Oct 2020 | [Register](https://devfestindia.com/) | Virtual (Free) | India (IST) | |
+| All Things Open              | 19, 20 Oct 2020 | [Register](https://2020.allthingsopen.org/) | Virtual (Free for first 10k) | Raleigh (EDT) | |
+| API World Hackathon 2020          | 19 - 30 Oct 2020 | [Register](https://www.eventbrite.com/e/api-world-2020-hackathon-registration-111188226980) | Virtual (Free) | EDT | |
+| SnykCon 2020                  | 21, 22 Oct 2020 | [Register](https://snyk.io/snykcon/) | (Virtual (Free) | BST  | |
+| Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual (Free) | EDT | |
+| Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/) | Virtual (Free) | India (IST) | |
 
 ### November 2020
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| :-------:|
-| Postman Galaxy 2020         | 17 Nov - 19 Nov 2020.  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | Closed | |  
-| Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT | Closed | |
-| Azure Community Day India 2020 | 24 - 26 Nov 2020   | [Register](https://www.azconf.dev/?aff=Chennai-Microsoft-Azure-User-Group#tickets) | Virtual (Free) | IST | Closed | |
-| AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | Closed | |
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Postman Galaxy 2020         | 17 Nov - 19 Nov 2020.  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | |  
+| Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT  | |
+| Azure Community Day India 2020 | 24 - 26 Nov 2020   | [Register](https://www.azconf.dev/?aff=Chennai-Microsoft-Azure-User-Group#tickets) | Virtual (Free) | IST |  |
+| AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | |
 
 ### December 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
