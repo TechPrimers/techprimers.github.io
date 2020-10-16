@@ -60,8 +60,10 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | Closed | |
 
 ### December 2020
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
+| Github Universe 2020          | 8 - 10 Dec 2020   | [Register](https://githubuniverse.com/) | Virtual (Free) | IST (re-broadcast), PST (Live) | |
+
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
