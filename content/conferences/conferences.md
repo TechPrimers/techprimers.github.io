@@ -56,6 +56,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | AWSome Day Online           | 4 Nov 2020  |  [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/)| Virtual (Free) | All Asia, Australia & NZ Timezones Available | | 
+| deploy by DigitalOcean      | 10, 11 Nov 2020 | [Register](https://www.digitalocean.com/deploy/) | Virtual (Free) | Global 24 hour (starts at 10am EDT) | |
 | All Day Devops (ADDO) 2020.  | 12 Nov 2020 | [Register](https://www.alldaydevops.com/) | Virtual (Free) | All timezones (round the clock) | |
 | Postman Galaxy 2020         | 17 Nov - 19 Nov 2020.  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | |  
 | Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT  | |
