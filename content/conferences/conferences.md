@@ -50,7 +50,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | SnykCon 2020                  | 21, 22 Oct 2020 | [Register](https://snyk.io/snykcon/) | Virtual (Free) | BST  | |
 | RedHat Forum APAC 2020        | 21, 22 Oct 2020 | [Register](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowUUID=3EB077D8-9014-42D9-9D87-C67FF858A98E&AffiliateData=7013a000002gmLMAAY&Referrer=https%3A%2F%2Fwww.redhat.com%2F) | Virtual (Free) | Asia | |
 | Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual (Free) | EDT | |
-| Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/) | Virtual (Free) | India (IST) | |
+| Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/?utm_source=6593d567&utm_medium=email&utm_campaign=referral) | Virtual (Free) | India (IST) | |
 
 ### November 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
