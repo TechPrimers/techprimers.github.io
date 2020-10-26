@@ -12,3 +12,4 @@ Hi, I’m Linjo, A Mechanical Engineer from Kerala. Just starting to feel the po
 Even though I am a Mechanical Engineer, I like coding and a bit of Web development.
 
 ## Contact Me <a href="https://github.com/linjorejoy/"><code><img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code></a>
+ 
