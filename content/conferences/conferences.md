@@ -52,6 +52,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Next.JS Conference           | 27 Oct 2020 | [Register](https://nextjs.org/conf) | Virtual (Free) | EDT | |
 | Shift Conf 2020         | 27 Oct 2020 | [Register](https://remote.shiftconf.co/) | Virtual (Free) | EDT |  Serverless, AWS, Kubernetes| 
 | JCon 2020 (Java Core)         | 27 - 30 Oct 2020 | [Register](https://jcon.one/en/) | Virtual (39€) | CET | |
+| Refresh2020 (Freshworks)     | 27/28 Oct 2020 | [Register](https://refresh2020.com/) | Virtual (Free) | All timezones available | | 
 | Open Source Days 2020           | 30, 31 Oct 2020 | [Register](https://ossdays.konfhub.com/?utm_source=6593d567&utm_medium=email&utm_campaign=referral) | Virtual (Free) | India (IST) | |
 
 ### November 2020
