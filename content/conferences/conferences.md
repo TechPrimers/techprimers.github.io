@@ -59,6 +59,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | AWSome Day Online           | 4 Nov 2020  |  [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/)| Virtual (Free) | All Asia, Australia & NZ Timezones Available | | 
+| Fundamentals for Apache Kafka      | 6, 16, 23, 30 Nov 2020 | [Register](https://go2.confluent.io/GLH0Xo20dXB7Q0rk00008t1) | Virtual (Free) | Global 24 hour (starts at 8.30 am IST) | |
+=======
 | Gophercon 2020 (golang)     | 9 - 13 Nov 2020 | [Register](https://www.gophercon.com/) | Virtual (Free & Paid) | PST | |
 | deploy by DigitalOcean      | 10, 11 Nov 2020 | [Register](https://www.digitalocean.com/deploy/) | Virtual (Free) | Global 24 hour (starts at 10am EDT) | |
 | Influx/Days North America Virtual Experience 2020             | 10, 11 Nov 2020 | [Register](https://www.influxdays.com/virtual-experience-2020) | Virtual (Free) | PST | | 
