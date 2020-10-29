@@ -22,6 +22,17 @@ Table of Contents  August 2020 September 2020 October 2020 November 2020 Decembe
     </item>
     
     <item>
+      <title>Linjo rejoy</title>
+      <link>https://techprimers.github.io/public/contributors/linjorejoy/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/linjorejoy/</guid>
+      <description> About me Hi, I’m Linjo, A Mechanical Engineer from Kerala. Just starting to feel the power of opensource and this is my first step towards openSource.
+Even though I am a Mechanical Engineer, I like coding and a bit of Web development.
+Contact Me  </description>
+    </item>
+    
+    <item>
       <title>R.D</title>
       <link>https://techprimers.github.io/public/contributors/rafid/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
@@ -1067,14 +1078,5 @@ You can find me at
  LinkedIn Github Gmail  Thank You</description>
     </item>
     
-    <item>
-      <title>Linjo Rejoy</title>
-      <link>https://techprimers.github.io/public/contributors/linjorejoy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/contributors/linjorejoy/</guid>
-      <description>Hi all, Myself Linjo starting my first steps towards opensource</description>
-    </item>
-    
-  </channel> 
+  </channel>
 </rss>
