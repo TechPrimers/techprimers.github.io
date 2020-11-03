@@ -65,6 +65,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Influx/Days North America Virtual Experience 2020             | 10, 11 Nov 2020 | [Register](https://www.influxdays.com/virtual-experience-2020) | Virtual (Free) | PST | | 
 | AWS Storage Day 2020             | 10 Nov 2020 | [Register](https://pages.awscloud.com/Storage-Day-2020.html) | Virtual (Free) | PST | | 
 | All Day Devops (ADDO) 2020.  | 12 Nov 2020 | [Register](https://www.alldaydevops.com/) | Virtual (Free) | All timezones (round the clock) | |
+| KubeCon + CloudNativeCon North America | 17 - 20 Nov 2020 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Virtual (Keynote Free, 100$) | PST | |
 | Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT  | |
 | Azure Community Day India 2020 | 24 - 26 Nov 2020   | [Register](https://www.azconf.dev/?aff=Chennai-Microsoft-Azure-User-Group#tickets) | Virtual (Free) | IST |  |
 | AWS re:Invent 2020          | 30 Nov - 18 Dec 2020   | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | Unknown | |
