@@ -1,6 +1,6 @@
 ---
 title: "Conferences/Workshops"
-date: 2020-10-28
+date: 2020-11-04
 draft: false
 ---
 ## Conferences/Workshops
@@ -61,10 +61,12 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWSome Day Online           | 4 Nov 2020  |  [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/)| Virtual (Free) | All Asia, Australia & NZ Timezones Available | | 
 | Fundamentals for Apache Kafka      | 6, 16, 23, 30 Nov 2020 | [Register](https://go2.confluent.io/GLH0Xo20dXB7Q0rk00008t1) | Virtual (Free) | Global 24 hour (starts at 8.30 am IST) | |
 | Gophercon 2020 (golang)     | 9 - 13 Nov 2020 | [Register](https://www.gophercon.com/) | Virtual (Free & Paid) | PST | |
+| ScaleUP 2020 (Logz.io)      | 10 Nov 2020 | [Register](https://logz.io/scaleup/) | Virtual (Free) | PST | DevOps, SRE, Open Source Advocates |
 | deploy by DigitalOcean      | 10, 11 Nov 2020 | [Register](https://www.digitalocean.com/deploy/) | Virtual (Free) | Global 24 hour (starts at 10am EDT) | |
 | Influx/Days North America Virtual Experience 2020             | 10, 11 Nov 2020 | [Register](https://www.influxdays.com/virtual-experience-2020) | Virtual (Free) | PST | | 
 | AWS Storage Day 2020             | 10 Nov 2020 | [Register](https://pages.awscloud.com/Storage-Day-2020.html) | Virtual (Free) | PST | | 
 | All Day Devops (ADDO) 2020.  | 12 Nov 2020 | [Register](https://www.alldaydevops.com/) | Virtual (Free) | All timezones (round the clock) | |
+| AWS Community Day 2020 (Bay Area) | 13 Nov 2020 | [Register](https://www.eventbrite.com/e/aws-community-day-bay-area-2020-tickets-102057127616) | Virtual (Free) | PST | | 
 | KubeCon + CloudNativeCon North America | 17 - 20 Nov 2020 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Virtual (Keynote Free, 100$) | PST | |
 | Data Forward 2020 (Splunk)  | 19 Nov 2020      | [Register](https://events.splunk.com/DataForward2020_Nov19?utm_medium=email&utm_source=splunk&utm_campaign=FY22Q4_APAC_GEM_OnEvt_PLT_EN_DataForward2020_Em1&utm_content=Data%20Forward%202020_Nov20) | Virtual (Free) | SGT  | |
 | Azure Community Day India 2020 | 24 - 26 Nov 2020   | [Register](https://www.azconf.dev/?aff=Chennai-Microsoft-Azure-User-Group#tickets) | Virtual (Free) | IST |  |
