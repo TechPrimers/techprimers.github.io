@@ -62,6 +62,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Fundamentals for Apache Kafka      | 6, 16, 23, 30 Nov 2020 | [Register](https://go2.confluent.io/GLH0Xo20dXB7Q0rk00008t1) | Virtual (Free) | Global 24 hour (starts at 8.30 am IST) | |
 | Gophercon 2020 (golang)     | 9 - 13 Nov 2020 | [Register](https://www.gophercon.com/) | Virtual (Free & Paid) | PST | |
 | ScaleUP 2020 (Logz.io)      | 10 Nov 2020 | [Register](https://logz.io/scaleup/) | Virtual (Free) | PST | DevOps, SRE, Open Source Advocates |
+| Developer Week Global Enterprise  | 10, 11 Nov 2020 | [Register](https://www.developerweek.com/global/register/) | Virtual (Free & Paid) | PST |  |
 | deploy by DigitalOcean      | 10, 11 Nov 2020 | [Register](https://www.digitalocean.com/deploy/) | Virtual (Free) | Global 24 hour (starts at 10am EDT) | |
 | Influx/Days North America Virtual Experience 2020             | 10, 11 Nov 2020 | [Register](https://www.influxdays.com/virtual-experience-2020) | Virtual (Free) | PST | | 
 | AWS Storage Day 2020             | 10 Nov 2020 | [Register](https://pages.awscloud.com/Storage-Day-2020.html) | Virtual (Free) | PST | | 
