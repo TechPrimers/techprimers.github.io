@@ -12,6 +12,9 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [October 2020](#october-2020)
 - [November 2020](#november-2020)
 - [December 2020](#december-2020)
+- [February 2021](#february-2021)
+- [May 2021](#may-2021)
+- [September 2021](#september-2021)
 - [Missing any conference?](#missing-any-conference)
 
 ### August 2020
@@ -83,6 +86,16 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Postman Galaxy 2020         | 2 - 4 Feb 2021  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | |  
+
+### May 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Kafka Summit Europe 2021         | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
+
+### September 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register(Not Announced yet) | Virtual (Free) | PST | |  
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
