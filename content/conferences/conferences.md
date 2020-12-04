@@ -14,7 +14,10 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [December 2020](#december-2020)
 - [January 2021](#january-2021)
 - [February 2021](#february-2021)
+- [March 2021](#march-2021)
+- [April 2021](#april-2021)
 - [May 2021](#may-2021)
+- [June 2021](#june-2021)
 - [September 2021](#september-2021)
 - [Missing any conference?](#missing-any-conference)
 
@@ -81,8 +84,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### December 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Graphql Galaxy 2020       | 7, 8 Dec 2020     | [Register](https://graphqlgalaxy.com/) | Virtual (Free + Chargeable) | EST | | 
-| Github Universe 2020          | 8 - 10 Dec 2020   | [Register](https://githubuniverse.com/) | Virtual (Free) | IST (re-broadcast), PST (Live) | |
+| Graphql Galaxy 2020         | 7, 8 Dec 2020     | [Register](https://graphqlgalaxy.com/) | Virtual (Free + Chargeable) | EST | | 
+| Github Universe 2020        | 8 - 10 Dec 2020   | [Register](https://githubuniverse.com/) | Virtual (Free) | IST (re-broadcast), PST (Live) | |
 
 ## January 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
@@ -98,13 +101,22 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ## March 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Devops.js                   | March 2021  | [Register](https://www.devopsjsconf.com/) | Virtual | | | |
+| Devops.js                   | March 2021  | [Register](https://www.devopsjsconf.com/) | Virtual | | |
 
+## April 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| React Summit Remote Edition | 14-16 April 2021  | [Register](https://remote.reactsummit.com/) | Virtual (Free + Chargeable) | EST |  |
 
 ### May 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Kafka Summit Europe 2021         | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
+| Kafka Summit Europe 2021    | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
+
+## June 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| JS Nation Live               | 18, 19 June 2021  | [Register](https://live.jsnation.com/) | Virtual (Chargeable) | CEST |  |
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
