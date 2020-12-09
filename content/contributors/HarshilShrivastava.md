@@ -2,7 +2,7 @@
 ---
 title: "Harshil Shrivastava"
 date: 2020-07-15
-draft: false
+draft: true
 ---
 
 ## About me
