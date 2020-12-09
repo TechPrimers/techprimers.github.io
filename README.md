@@ -48,7 +48,7 @@ You need [hugo](https://gohugo.io/) to create the Static HTML files based on the
 Steps for installing hugo can be followed from [here](https://gohugo.io/getting-started/installing/)
 
 ## Run the site locally
-You can run the site locally and see how the pages are reflected before committing/pushing the code.
+You can run the site locally and see how the pages are reflected  and before committing/pushing the code.
 ```
 cd techprimers-repo
 hugo serve -D
