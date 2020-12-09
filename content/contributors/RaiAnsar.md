@@ -7,7 +7,7 @@ draft: false
 ## About me
 Hey Open Sorceres (pun intended),
 
-I'm Rai Ansar, 5th semester Student of Software Engineering.
+I'm Rai Ansar, 6th semester Student of Software Engineering.
 
 I'm  **Flutter App Developer** with 6 months of experience and 3 years of IT industry experience. 
 Other than Flutter I've worked on **Java**, Python, MySQL and many other technologies.
