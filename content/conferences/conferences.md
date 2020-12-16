@@ -90,7 +90,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ## January 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Free) | EST | |
+| TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Chargeable) | EST | |
    
 ### February 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
