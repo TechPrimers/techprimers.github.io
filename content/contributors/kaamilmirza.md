@@ -17,15 +17,11 @@ wonderful journey for me, at least I hope so :).
 
 My social media as well as professional platforms are the following:
 
-<a href="https://twitter.com/MirzaKaamil" class="fa fa-twitter"></a>
-<a href="https://github.com/kaamilmirza" class="fa fa-github"></a>
-<a href="https://www.instagram.com/kaamilmirza/" class="fa fa-instagram"></a>
-<a href="https://soundcloud.com/kaamilmirza" class="fa fa-soundcloud"></a>
-<a href="https://open.spotify.com/artist/1S1kcCUo0mTi1R4tIyJa6m" class="fa fa-spotify"></a>
+<
 
 * [*LinkedIn*](https://in.linkedin.com/in/kaamil-mirza)
 * [*GitHub*](https://github.com/kaamilmirza)
-* [*SoundCloud*](https://www.facebook.com/kaamimlmirza)
+* [*SoundCloud*](https://www.soundcloud.com/kaamimlmirza)
 * [*Instagram*](https://www.instagram.com/kaamilmirza/)
 * [*Twitter*](https://twitter.com/MirzaKaamil)
 * [*Spotify Artist*](https://open.spotify.com/artist/1S1kcCUo0mTi1R4tIyJa6m)
