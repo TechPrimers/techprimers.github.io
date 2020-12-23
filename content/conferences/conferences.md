@@ -94,6 +94,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | jChampions Conferences  (Java & Open Source)  | 13 - 19 Jan 2021 | [Register](https://jchampionsconf.com/) | Virtual (Free) | EST | |
 | Amazon AI Conclave 2021     | 28, 29 Jan 2021 | [Register](https://aws.amazon.com/events/ai_conclave/) | Virtual (Free) | IST | | 
 | TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Chargeable) | EST | |
+| Azure Kubernetes Day        | 30 Jan 2021      | [Register](https://akd.konfhub.com/) | Virtual (Free) | IST | | 
    
 ### February 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
