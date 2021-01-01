@@ -1,5 +1,21 @@
 [
     {
+        "ref": "https://techprimers.github.io/public/contributors/santhosh/",
+        "title": "Santhosh Natarajan",
+        "section": "contributors",
+        "date" : "2020.12.20",
+        "body": " About me Hello All,\nI\u0026rsquo;m Santhosh Natarajan.\nWorking as a Front developer in coimbatore.\nYou can find me at\n LinkedIn Github Gmail  Thank You\n"
+    }
+,
+    {
+        "ref": "https://techprimers.github.io/public/contributors/tusharkhatriofficial/",
+        "title": "Tushar Khatri",
+        "section": "contributors",
+        "date" : "2020.12.19",
+        "body": " About me Hello All,\nThis is my new commit for the Open Source Contribution Demo.\n"
+    }
+,
+    {
         "ref": "https://techprimers.github.io/public/contributors/sahil/",
         "title": "Sahil Gupta",
         "section": "contributors",

@@ -6,10 +6,33 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Santhosh Natarajan</title>
+      <link>https://techprimers.github.io/public/contributors/santhosh/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/santhosh/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Santhosh Natarajan.
+Working as a Front developer in coimbatore.
+You can find me at
+ LinkedIn Github Gmail  Thank You</description>
+    </item>
+    
+    <item>
+      <title>Tushar Khatri</title>
+      <link>https://techprimers.github.io/public/contributors/tusharkhatriofficial/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/tusharkhatriofficial/</guid>
+      <description>About me Hello All,
+This is my new commit for the Open Source Contribution Demo.</description>
+    </item>
     
     <item>
       <title>Sahil Gupta</title>
