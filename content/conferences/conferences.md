@@ -89,7 +89,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | AWS re:Invent                | 12 - 14 Jan 2021 | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | EST | |
 | jChampions Conferences  (Java & Open Source)  | 13 - 19 Jan 2021 | [Register](https://jchampionsconf.com/) | Virtual (Free) | EST | |
-| Google Cloud Community Day | 22, 23 Jan 2021 | [Register](https://cloudcommunitydays.in/) | Virtual (Free) IST | |
+| Google Cloud Community Day | 22, 23 Jan 2021 | [Register](https://cloudcommunitydays.in/) | Virtual (Free) | IST | |
 | Amazon AI Conclave 2021     | 28, 29 Jan 2021 | [Register](https://aws.amazon.com/events/ai_conclave/) | Virtual (Free) | IST | | 
 | TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Chargeable) | EST | |
 | Azure Kubernetes Day        | 30 Jan 2021      | [Register](https://akd.konfhub.com/) | Virtual (Free) | IST | | 
