@@ -100,6 +100,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Postman Galaxy 2020         | 2 - 4 Feb 2021  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | | 
 | DATAcated Conference 2021    | 9 - 11 Feb 2021 | [Register](https://storybydata.com/datacatedconference/) | Virtual (Free) | PST | |
 | Node Congress               | 18, 19 Feb 2021 | [Register](https://nodecongress.com/) | Virtual (Free + Chargeable) | EST | |
+| AWS Innovate ( AI/ML edition ) | 24 Jan 2021 | [Register](https://aws.amazon.com/events/aws-innovate/machine-learning/) | Virtual (Free) | All timezone available| |
 
 ### March 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
