@@ -1,17 +1,12 @@
 ---
 title: "Conferences/Workshops"
-date: 2020-11-04
+date: 2021-01-02
 draft: false
 ---
 ## Conferences/Workshops
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [August 2020](#august-2020)
-- [September 2020](#september-2020)
-- [October 2020](#october-2020)
-- [November 2020](#november-2020)
-- [December 2020](#december-2020)
 - [January 2021](#january-2021)
 - [February 2021](#february-2021)
 - [March 2021](#march-2021)
@@ -20,6 +15,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [June 2021](#june-2021)
 - [September 2021](#september-2021)
 - [Missing any conference?](#missing-any-conference)
+
+<!--
 
 ### August 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
@@ -86,25 +83,31 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Graphql Galaxy 2020         | 7, 8 Dec 2020     | [Register](https://graphqlgalaxy.com/) | Virtual (Free + Chargeable) | EST | | 
 | Github Universe 2020        | 8 - 10 Dec 2020   | [Register](https://githubuniverse.com/) | Virtual (Free) | IST (re-broadcast), PST (Live) | |
-
-## January 2021
+-->
+### January 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| AWS re:Invent                | 12 - 14 Jan 2021 | [Register](https://reinvent.awsevents.com/) | Virtual (Free) | EST | |
 | jChampions Conferences  (Java & Open Source)  | 13 - 19 Jan 2021 | [Register](https://jchampionsconf.com/) | Virtual (Free) | EST | |
+| Google Cloud Community Day | 22, 23 Jan 2021 | [Register](https://cloudcommunitydays.in/) | Virtual (Free) | IST | |
+| Amazon AI Conclave 2021     | 28, 29 Jan 2021 | [Register](https://aws.amazon.com/events/ai_conclave/) | Virtual (Free) | IST | | 
 | TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Chargeable) | EST | |
+| Azure Kubernetes Day        | 30 Jan 2021      | [Register](https://u16031156.ct.sendgrid.net/ls/click?upn=fEC6M6ANJCHL4A4ctMEJWY6jnOFprHTYPt3PCenxSKF3s4vOT9x7gkSdGRHJzXTit4tNnRNRLgB4etjDefunpITDGeOVGWC9zncgjENSl5c-2FmuAhnvhKwpcU70RRBvTBwZ0c_lNk5-2Fe7Sq5csl4RM4CnyR3ueDRbFl-2Bjw0-2BnPrMnSSV1xyZSnqu5Am6gKINXRZFiu-2BUX2BgT53Y65Dc6sVfxDDK7XS-2FLDtWgwAiNGNrnF6BWk0rZK1H7zsakNU6BL6SFR3nh5vGEw1-2BXRAbMbfT4poxak4tZb2RLDNa-2FkcREWKebcqK2iR-2FpAmJZNjiWsUGA0-2BW109yaSH8nxXus3QDHwVpZAeMFuwPXLkc7uys-2BEKbY-3D) | Virtual (Free) | IST | | 
    
 ### February 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Postman Galaxy 2020         | 2 - 4 Feb 2021  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | |  
+| Postman Galaxy 2020         | 2 - 4 Feb 2021  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | | 
+| DATAcated Conference 2021    | 9 - 11 Feb 2021 | [Register](https://storybydata.com/datacatedconference/) | Virtual (Free) | PST | |
 | Node Congress               | 18, 19 Feb 2021 | [Register](https://nodecongress.com/) | Virtual (Free + Chargeable) | EST | |
+| AWS Innovate ( AI/ML edition ) | 24 Jan 2021 | [Register](https://aws.amazon.com/events/aws-innovate/machine-learning/) | Virtual (Free) | All timezone available| |
 
-## March 2021
+### March 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Devops.js                   | March 2021  | [Register](https://www.devopsjsconf.com/) | Virtual | | |
 
-## April 2021
+### April 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | React Summit Remote Edition | 14-16 April 2021  | [Register](https://remote.reactsummit.com/) | Virtual (Free + Chargeable) | EST |  |
@@ -114,7 +117,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Kafka Summit Europe 2021    | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
 
-## June 2021
+### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | JS Nation Live               | 18, 19 June 2021  | [Register](https://live.jsnation.com/) | Virtual (Chargeable) | CEST |  |
