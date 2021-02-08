@@ -7,13 +7,13 @@ draft: false
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [January 2021](#january-2021)
 - [February 2021](#february-2021)
 - [March 2021](#march-2021)
 - [April 2021](#april-2021)
 - [May 2021](#may-2021)
 - [June 2021](#june-2021)
 - [September 2021](#september-2021)
+- [October 2021](#october-2021)
 - [Missing any conference?](#missing-any-conference)
 
 <!--
@@ -83,7 +83,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Graphql Galaxy 2020         | 7, 8 Dec 2020     | [Register](https://graphqlgalaxy.com/) | Virtual (Free + Chargeable) | EST | | 
 | Github Universe 2020        | 8 - 10 Dec 2020   | [Register](https://githubuniverse.com/) | Virtual (Free) | IST (re-broadcast), PST (Live) | |
--->
+
 ### January 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
@@ -94,13 +94,15 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | TestJS Summit               | 28, 29 Jan 2021  | [Register](https://www.testjssummit.com/) | Virtual(Chargeable) | EST | |
 | Azure Kubernetes Day        | 30 Jan 2021      | [Register](https://u16031156.ct.sendgrid.net/ls/click?upn=fEC6M6ANJCHL4A4ctMEJWY6jnOFprHTYPt3PCenxSKF3s4vOT9x7gkSdGRHJzXTit4tNnRNRLgB4etjDefunpITDGeOVGWC9zncgjENSl5c-2FmuAhnvhKwpcU70RRBvTBwZ0c_lNk5-2Fe7Sq5csl4RM4CnyR3ueDRbFl-2Bjw0-2BnPrMnSSV1xyZSnqu5Am6gKINXRZFiu-2BUX2BgT53Y65Dc6sVfxDDK7XS-2FLDtWgwAiNGNrnF6BWk0rZK1H7zsakNU6BL6SFR3nh5vGEw1-2BXRAbMbfT4poxak4tZb2RLDNa-2FkcREWKebcqK2iR-2FpAmJZNjiWsUGA0-2BW109yaSH8nxXus3QDHwVpZAeMFuwPXLkc7uys-2BEKbY-3D) | Virtual (Free) | IST | | 
    
+   -->
+
 ### February 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Postman Galaxy 2020         | 2 - 4 Feb 2021  | [Register](https://hopin.to/events/galaxy-2020) | Virtual (Conference - Free, Workshops - Chargeable) | PST | | 
 | DATAcated Conference 2021    | 9 - 11 Feb 2021 | [Register](https://storybydata.com/datacatedconference/) | Virtual (Free) | PST | |
+| Chaos Carnival           | 10, 11 Feb 2021 | [Register](https://chaoscarnival.io/) | Virtual (Free) | PST | | 
 | Node Congress               | 18, 19 Feb 2021 | [Register](https://nodecongress.com/) | Virtual (Free + Chargeable) | EST | |
-| AWS Innovate ( AI/ML edition ) | 24 Jan 2021 | [Register](https://aws.amazon.com/events/aws-innovate/machine-learning/) | Virtual (Free) | All timezone available| |
 
 ### March 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
@@ -125,7 +127,15 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Spring One 2021             | 1, 2 Sep 2021   | [Register](https://springone.io/) | Virtual (Free) | PST | |
 | Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register(Not Announced yet) | Virtual (Free) | PST | |  
+
+### October 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
+| Kubecon North America 2021. | 12-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
+ 
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
