@@ -113,6 +113,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | React Summit Remote Edition | 14-16 April 2021  | [Register](https://remote.reactsummit.com/) | Virtual (Free + Chargeable) | EST |  |
+| GIDS 2021                   | 27-30 April 2021 | [Register](https://www.wurreka.com/ict/virtual-conference/gids-2021/) | Virutal (Chargeable) | IST | | 
 
 ### May 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
