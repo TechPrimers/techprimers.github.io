@@ -1,6 +1,6 @@
 ---
 title: "Nikhil Sugandh"
-date: 2021d-01-19
+date: 2021-01-19
 draft: false
 ---
 
