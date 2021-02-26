@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/contributors/joyonta/</loc>
+    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techprimers.github.io/public/</loc>
+    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,15 +23,8 @@
   </url>
   
   <url>
-    <loc>https://techprimers.github.io/public/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://techprimers.github.io/public/conferences/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -487,17 +489,14 @@
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/bhari/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/rudresh/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://techprimers.github.io/public/contributors/sooraj_jha/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -506,7 +505,6 @@
   
   <url>
     <loc>https://techprimers.github.io/public/series/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
