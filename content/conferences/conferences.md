@@ -120,6 +120,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Kafka Summit Europe 2021    | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
+| AWS Summit India Online 2021 | 18, 19 May 2021 | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
 
 ### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
