@@ -113,6 +113,8 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | React Summit Remote Edition | 14-16 April 2021  | [Register](https://remote.reactsummit.com/) | Virtual (Free + Chargeable) | EST |  |
+| Global Azure 2021 India     | 16, 17 April 2021 | [Register](https://globalazure2021.azureedge.net/#) | Virtual Free | IST | |
+| Graph + AI Summit 2021      | 21-22 April 2021 | [Register](https://www.tigergraph.com/graphaisummit/) | Virtual Free | EST | |
 | GIDS 2021                   | 27-30 April 2021 | [Register](https://www.wurreka.com/ict/virtual-conference/gids-2021/) | Virutal (Chargeable) | IST | | 
 
 ### May 2021
