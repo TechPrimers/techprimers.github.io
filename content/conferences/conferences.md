@@ -11,6 +11,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [June 2021](#june-2021)
 - [September 2021](#september-2021)
 - [October 2021](#october-2021)
+- [December 2021](#december-2021)
 - [Missing any conference?](#missing-any-conference)
 
 <!--
@@ -131,15 +132,20 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Spring One 2021             | 1, 2 Sep 2021   | [Register](https://springone.io/) | Virtual (Free) | PST | |
-| Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register(Not Announced yet) | Virtual (Free) | PST | |  
+| Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register[https://www.kafka-summit.org/events/kafka-summit-americas-2021/about] | Virtual (Free) | PST | |  
 
 ### October 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
 | Kubecon North America 2021. | 12-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
+| All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
 | Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
  
+### December 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
