@@ -7,7 +7,6 @@ draft: false
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [April 2021](#april-2021)
 - [May 2021](#may-2021)
 - [June 2021](#june-2021)
 - [September 2021](#september-2021)
@@ -107,8 +106,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Devops.js                   | March 2021  | [Register](https://www.devopsjsconf.com/) | Virtual | | |
 
-   -->
-
+   
 ### April 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
@@ -117,11 +115,12 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Graph + AI Summit 2021      | 21-22 April 2021 | [Register](https://www.tigergraph.com/graphaisummit/) | Virtual Free | EST | |
 | GIDS 2021                   | 27-30 April 2021 | [Register](https://www.wurreka.com/ict/virtual-conference/gids-2021/) | Virutal (Chargeable) | IST | | 
 
+-->
 ### May 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Kafka Summit Europe 2021    | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
-| AWS Summit India Online 2021 | 18, 19 May 2021 | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
+| AWS Summit India Online 2021 | Postponed | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
 
 ### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
@@ -139,6 +138,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
 | Kubecon North America 2021. | 12-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
+| Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
  
 
 ### Missing any conference
