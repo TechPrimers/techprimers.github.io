@@ -6,10 +6,20 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conferences/Workshops</title>
+      <link>https://techprimers.github.io/public/conferences/conferences/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
+      <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
+Table of Contents  May 2021 June 2021 July 2021 September 2021 October 2021 November 2021 December 2021 Missing any conference?  May 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Kafka Summit Europe 2021 11, 12 May 2021 Register Virtual (Free) PST    AWS Summit India Online 2021 Postponed Register Virtual (Free) IST     June 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     JS Nation Live 18, 19 June 2021 Register Virtual (Chargeable) CEST     July 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Sodacon 2021 13, 14 July 2021 Register Virtual (Free till June 15) PST     September 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Spring One 2021 1, 2 Sep 2021 Register Virtual (Free) PST    Kafka Summit Americas 2021 14, 15 Sep 2021 Register[https://www.</description>
+    </item>
     
     <item>
       <title>Sivin</title>
@@ -45,16 +55,6 @@ Find me at
       <guid>https://techprimers.github.io/public/contributors/nikhilsugandh/</guid>
       <description>About me I am a qualified Computer Software Engineer (B.Tech) having an work experience of 1.5 years with companies. Besides this, I am also registered on other tutoring platforms where I pursue my hobby of tutoring and answering questions of students.
 My professional background encompasses software development &amp;amp; support, wrinting sql scripts,performing daily tasks , learning new technologies.I have knowledge on HTML CSS Bootstrap JAva C C++ reactjs etcetra.</description>
-    </item>
-    
-    <item>
-      <title>Conferences/Workshops</title>
-      <link>https://techprimers.github.io/public/conferences/conferences/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
-      <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
-Table of Contents  May 2021 June 2021 July 2021 September 2021 October 2021 November 2021 December 2021 Missing any conference?  May 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Kafka Summit Europe 2021 11, 12 May 2021 Register Virtual (Free) PST    AWS Summit India Online 2021 Postponed Register Virtual (Free) IST     June 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     JS Nation Live 18, 19 June 2021 Register Virtual (Chargeable) CEST     July 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Sodacon 2021 13, 14 July 2021 Register Virtual (Free till June 15) PST     September 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Spring One 2021 1, 2 Sep 2021 Register Virtual (Free) PST    Kafka Summit Americas 2021 14, 15 Sep 2021 Register[https://www.</description>
     </item>
     
     <item>
