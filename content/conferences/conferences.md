@@ -148,6 +148,10 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
 | Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
  
+### October 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| ISTA 2021                   | 18 Nov 2021     | [Register](https://istacon.org/) | Virtual | | |
 ### December 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
