@@ -124,6 +124,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Kafka Summit Europe 2021    | 11, 12 May 2021  | [Register](https://kafkasummiteurope2021.splashthat.com/) | Virtual (Free) | PST | |  
 | AWS Summit India Online 2021 | Postponed | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
+| Dockercon 2021              | 27 May 2021     | [Register](https://docker.events.cube365.net/dockercon-live/2021/) | Virtual (Free) | PST | |
 
 ### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
