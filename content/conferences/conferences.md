@@ -139,7 +139,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Spring One 2021             | 1, 2 Sep 2021   | [Register](https://springone.io/) | Virtual (Free) | PST | |
-| Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register[https://www.kafka-summit.org/events/kafka-summit-americas-2021/about] | Virtual (Free) | PST | |  
+| Kafka Summit Americas 2021         | 14, 15 Sep 2021  | [Register](https://www.kafka-summit.org/events/kafka-summit-americas-2021/about) | Virtual (Free) | PST | |  
 
 ### October 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
