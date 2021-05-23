@@ -9,6 +9,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ## Table of Contents
 - [May 2021](#may-2021)
 - [June 2021](#june-2021)
+- [July 2021](#july-2021)
 - [September 2021](#september-2021)
 - [October 2021](#october-2021)
 - [December 2021](#december-2021)
@@ -127,6 +128,11 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | JS Nation Live               | 18, 19 June 2021  | [Register](https://live.jsnation.com/) | Virtual (Chargeable) | CEST |  |
+
+### July 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Sodacon 2021                | 13, 14 July 2021 | [Register](https://sodafoundation.io/events/sodacon-2021-global-virtual/) | Virtual (Free till June 15) | PST | |
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
