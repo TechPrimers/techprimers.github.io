@@ -7,7 +7,6 @@ draft: false
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [May 2021](#may-2021)
 - [June 2021](#june-2021)
 - [July 2021](#july-2021)
 - [September 2021](#september-2021)
@@ -118,7 +117,6 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Graph + AI Summit 2021      | 21-22 April 2021 | [Register](https://www.tigergraph.com/graphaisummit/) | Virtual Free | EST | |
 | GIDS 2021                   | 27-30 April 2021 | [Register](https://www.wurreka.com/ict/virtual-conference/gids-2021/) | Virutal (Chargeable) | IST | | 
 
--->
 ### May 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
@@ -126,6 +124,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWS Summit India Online 2021 | Postponed | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
 | Dockercon 2021              | 27 May 2021     | [Register](https://docker.events.cube365.net/dockercon-live/2021/) | Virtual (Free) | PST | |
 
+-->
 ### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
@@ -134,6 +133,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### July 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| RedisConf 2021              | 6, July 2021 |   [Register](https://connect.redislabs.com/redisconf-on-the-road/in?mkt_tok=OTE1LU5GRC0xMjgAAAF9qGfTeCxGNEDDQ-5Fwa100UQeZzg1FrUGC-ji_n2_HjjMxMgBxKfEtIWk_-Bxe3QnDwfMftTvJJr795rOt2-RE57bTT3LjmnHvRxbO0lOAX8) | Virtual (Free) | PST | |
 | Sodacon 2021                | 13, 14 July 2021 | [Register](https://sodafoundation.io/events/sodacon-2021-global-virtual/) | Virtual (Free till June 15) | PST | |
 
 ### September 2021
@@ -159,6 +159,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
+| AWS re:Invent 2021          | Dec 2021 | [Register](https://reinvent.awsevents.com/) | Paid | PST | |
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
