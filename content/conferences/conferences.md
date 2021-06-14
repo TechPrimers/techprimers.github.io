@@ -133,7 +133,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 ### July 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| RedisConf 2021              | 6, July 2021 |   [Register](https://connect.redislabs.com/redisconf-on-the-road/in?mkt_tok=OTE1LU5GRC0xMjgAAAF9qGfTeCxGNEDDQ-5Fwa100UQeZzg1FrUGC-ji_n2_HjjMxMgBxKfEtIWk_-Bxe3QnDwfMftTvJJr795rOt2-RE57bTT3LjmnHvRxbO0lOAX8) | Virtual (Free) | PST | |
+| RedisConf 2021: on the Road | 6, July 2021 |   [Register](https://connect.redislabs.com/redisconf-on-the-road/in?mkt_tok=OTE1LU5GRC0xMjgAAAF9qGfTeCxGNEDDQ-5Fwa100UQeZzg1FrUGC-ji_n2_HjjMxMgBxKfEtIWk_-Bxe3QnDwfMftTvJJr795rOt2-RE57bTT3LjmnHvRxbO0lOAX8) | Virtual (Free) | IST | |
 | Sodacon 2021                | 13, 14 July 2021 | [Register](https://sodafoundation.io/events/sodacon-2021-global-virtual/) | Virtual (Free till June 15) | PST | |
 
 ### September 2021
