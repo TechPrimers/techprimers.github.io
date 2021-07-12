@@ -1,13 +1,12 @@
 ---
 title: "Conferences/Workshops"
-date: 2021-05-23
+date: 2021-07-12
 draft: false
 ---
 ## Conferences/Workshops
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [June 2021](#june-2021)
 - [July 2021](#july-2021)
 - [September 2021](#september-2021)
 - [October 2021](#october-2021)
@@ -124,17 +123,18 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWS Summit India Online 2021 | Postponed | [Register](https://aws.amazon.com/events/summits/online/india/) | Virtual (Free) | IST | |
 | Dockercon 2021              | 27 May 2021     | [Register](https://docker.events.cube365.net/dockercon-live/2021/) | Virtual (Free) | PST | |
 
--->
 ### June 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | JS Nation Live               | 18, 19 June 2021  | [Register](https://live.jsnation.com/) | Virtual (Chargeable) | CEST |  |
 
+-->
 ### July 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | RedisConf 2021: on the Road | 6, July 2021 |   [Register](https://connect.redislabs.com/redisconf-on-the-road/in?mkt_tok=OTE1LU5GRC0xMjgAAAF9qGfTeCxGNEDDQ-5Fwa100UQeZzg1FrUGC-ji_n2_HjjMxMgBxKfEtIWk_-Bxe3QnDwfMftTvJJr795rOt2-RE57bTT3LjmnHvRxbO0lOAX8) | Virtual (Free) | IST | |
 | Sodacon 2021                | 13, 14 July 2021 | [Register](https://sodafoundation.io/events/sodacon-2021-global-virtual/) | Virtual (Free till June 15) | PST | |
+| MongoDB.Live                | 13, 14 July 2021 | [Register](https://www.mongodb.com/live/register) | Virtual (Free) | PST | |
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
