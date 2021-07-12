@@ -6,7 +6,7 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>Conferences/Workshops</title>
       <link>https://techprimers.github.io/public/conferences/conferences/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
       <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
-Table of Contents  June 2021 July 2021 September 2021 October 2021 November 2021 December 2021 Missing any conference?  June 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     JS Nation Live 18, 19 June 2021 Register Virtual (Chargeable) CEST     July 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     RedisConf 2021: on the Road 6, July 2021 Register Virtual (Free) IST    Sodacon 2021 13, 14 July 2021 Register Virtual (Free till June 15) PST     September 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Spring One 2021 1, 2 Sep 2021 Register Virtual (Free) PST    Kafka Summit Americas 2021 14, 15 Sep 2021 Register Virtual (Free) PST     October 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     VM World 2021 5-7 Oct 2021 Register Virtual (Free) PST    Kubecon North America 2021.</description>
+Table of Contents  July 2021 September 2021 October 2021 November 2021 December 2021 Missing any conference?  July 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     RedisConf 2021: on the Road 6, July 2021 Register Virtual (Free) IST    Sodacon 2021 13, 14 July 2021 Register Virtual (Free till June 15) PST    MongoDB.</description>
     </item>
     
     <item>
