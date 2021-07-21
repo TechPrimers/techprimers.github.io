@@ -8,6 +8,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 
 ## Table of Contents
 - [July 2021](#july-2021)
+- [August 2021](#august-2021)
 - [September 2021](#september-2021)
 - [October 2021](#october-2021)
 - [November 2021](#november-2021)
@@ -136,6 +137,13 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Sodacon 2021                | 13, 14 July 2021 | [Register](https://sodafoundation.io/events/sodacon-2021-global-virtual/) | Virtual (Free till June 15) | PST | |
 | MongoDB.Live                | 13, 14 July 2021 | [Register](https://www.mongodb.com/live/register) | Virtual (Free) | PST | |
 | B Word                      | 21 July 2021.    | [Register](https://www.thebword.org/c/the-b-word) | Virtual (Free) | PST | | 
+
+### August 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| GitLab Commit Virtual 2021 | 3, 4 Aug 2021 |   [Register](https://hopin.com/events/gitlab-commit-virtual-2021)  | Virtual (Free) | EST | |
+
+
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
