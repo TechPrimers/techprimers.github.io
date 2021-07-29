@@ -143,7 +143,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | GitLab Commit Virtual 2021 | 3, 4 Aug 2021 |   [Register](https://hopin.com/events/gitlab-commit-virtual-2021)  | Virtual (Free) | EST | |
-
+| DevOps India Summit 2021   | 27, 28 Aug 2021 | [Register](https://devopsindiasummit.com/) | Virtual (Free) | IST | |
 
 
 ### September 2021
