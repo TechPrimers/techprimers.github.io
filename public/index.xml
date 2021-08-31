@@ -6,10 +6,24 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Avik  K</title>
+      <link>https://techprimers.github.io/public/contributors/avik/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/avik/</guid>
+      <description>About me Hello All,
+I&amp;rsquo;m Avik, a 3rd year CS undergrad curently pursuing my bachelors from Institute of Engineering and Management,Kolkata.
+I know C, C++, Java and Python.
+I want to contribute to open source and this is my first contribution on Github.
+You can find me at
+ LinkedIn Github  Cheers!</description>
+    </item>
     
     <item>
       <title>Conferences/Workshops</title>
