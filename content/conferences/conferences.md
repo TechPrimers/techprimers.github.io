@@ -149,6 +149,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Spring One 2021             | 1, 2 Sep 2021   | [Register](https://springone.io/) | Virtual (Free) | PST | |
 | Kafka Summit Americas 2021         | 14, 15 Sep 2021  | [Register](https://www.kafka-summit.org/events/kafka-summit-americas-2021/about) | Virtual (Free) | PST | |  
+| Azure Cloud Summit | 13 - 23 Sep 2021 | [Register](https://azuresummit.live/) | Virtual (Free) | GMT | |
 | AWS Startup Day (Women Founders Edition) | 22 Sep 2021 | [Register](https://pages.awscloud.com/NAMER-field-OE-startup-day-september-2021-reg-event.html?sc_ichannel=ha&sc_icampaign=reg_amersup_7014z000001hq9z&sc_isegment=en&did=ep_card&trk=ep_card-ep_card) | Virtual (Free) | PST | |
 | AWS Summit (Washington DC) | 28, 29 Sep 2021 | [Register](https://aws.amazon.com/events/summits/washington-dc/) | Washington | EST | |
 | AWSome Day                 | 30 Sep 2021 | [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Virtual (Free) | IST | |
