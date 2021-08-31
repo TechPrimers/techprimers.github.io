@@ -6,10 +6,20 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conferences/Workshops</title>
+      <link>https://techprimers.github.io/public/conferences/conferences/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
+      <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
+Table of Contents  September 2021 October 2021 November 2021 December 2021 Missing any conference?  September 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Spring One 2021 1, 2 Sep 2021 Register Virtual (Free) PST    Kafka Summit Americas 2021 14, 15 Sep 2021 Register Virtual (Free) PST    AWS Startup Day (Women Founders Edition) 22 Sep 2021 Register Virtual (Free) PST    AWS Summit (Washington DC) 28, 29 Sep 2021 Register Washington EST    AWSome Day 30 Sep 2021 Register Virtual (Free) IST     October 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     VM World 2021 5-7 Oct 2021 Register Virtual (Free) PST    Kubecon North America 2021.</description>
+    </item>
     
     <item>
       <title>Avik  K</title>
@@ -23,16 +33,6 @@ I know C, C++, Java and Python.
 I want to contribute to open source and this is my first contribution on Github.
 You can find me at
  LinkedIn Github  Cheers!</description>
-    </item>
-    
-    <item>
-      <title>Conferences/Workshops</title>
-      <link>https://techprimers.github.io/public/conferences/conferences/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://techprimers.github.io/public/conferences/conferences/</guid>
-      <description>Conferences/Workshops List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
-Table of Contents  September 2021 October 2021 November 2021 December 2021 Missing any conference?  September 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     Spring One 2021 1, 2 Sep 2021 Register Virtual (Free) PST    Kafka Summit Americas 2021 14, 15 Sep 2021 Register Virtual (Free) PST    AWS Startup Day (Women Founders Edition) 22 Sep 2021 Register Virtual (Free) PST    AWS Summit (Washington DC) 28, 29 Sep 2021 Register Washington EST    AWSome Day 30 Sep 2021 Register Virtual (Free) IST     October 2021    Conference/Workshop Date Link Mode Region / TimeZone Comments     VM World 2021 5-7 Oct 2021 Register Virtual (Free) PST    Kubecon North America 2021.</description>
     </item>
     
     <item>
