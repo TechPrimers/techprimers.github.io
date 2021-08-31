@@ -1,6 +1,6 @@
 ---
 title: "Conferences/Workshops"
-date: 2021-07-12
+date: 2021-08-31
 draft: false
 ---
 ## Conferences/Workshops
