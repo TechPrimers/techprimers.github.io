@@ -7,8 +7,6 @@ draft: false
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [July 2021](#july-2021)
-- [August 2021](#august-2021)
 - [September 2021](#september-2021)
 - [October 2021](#october-2021)
 - [November 2021](#november-2021)
@@ -129,7 +127,6 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | JS Nation Live               | 18, 19 June 2021  | [Register](https://live.jsnation.com/) | Virtual (Chargeable) | CEST |  |
 
--->
 ### July 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
@@ -145,18 +142,22 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | GitLab Commit Virtual 2021 | 3, 4 Aug 2021 |   [Register](https://hopin.com/events/gitlab-commit-virtual-2021)  | Virtual (Free) | EST | |
 | DevOps India Summit 2021   | 27, 28 Aug 2021 | [Register](https://devopsindiasummit.com/) | Virtual (Free) | IST | |
 
+-->
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Spring One 2021             | 1, 2 Sep 2021   | [Register](https://springone.io/) | Virtual (Free) | PST | |
 | Kafka Summit Americas 2021         | 14, 15 Sep 2021  | [Register](https://www.kafka-summit.org/events/kafka-summit-americas-2021/about) | Virtual (Free) | PST | |  
+| AWS Startup Day (Women Founders Edition) | 22 Sep 2021 | [Register](https://pages.awscloud.com/NAMER-field-OE-startup-day-september-2021-reg-event.html?sc_ichannel=ha&sc_icampaign=reg_amersup_7014z000001hq9z&sc_isegment=en&did=ep_card&trk=ep_card-ep_card) | Virtual (Free) | PST | |
+| AWS Summit (Washington DC) | 28, 29 Sep 2021 | [Register](https://aws.amazon.com/events/summits/washington-dc/) | Washington | EST | |
+| AWSome Day                 | 30 Sep 2021 | [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Virtual (Free) | IST | |
 
 ### October 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
-| Kubecon North America 2021. | 12-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
+| Kubecon North America 2021. | 11-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
 | All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
 | Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
  
