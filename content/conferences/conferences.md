@@ -161,6 +161,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Kubecon North America 2021. | 11-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
 | All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
 | Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
+| Github Universe 2021       | 27, 28 Oct 2021 | [Register](https://githubuniverse.com) | Virtual (Free) | PST | |
 | Azure Community Conference | 29-31 Oct 2021 | [Regoster](https://azconf.dev/) | Virtual (Free) | IST | |
  
 ### November 2021
