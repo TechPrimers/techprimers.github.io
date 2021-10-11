@@ -12,8 +12,32 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [December 2021](#december-2021)
 - [Missing any conference?](#missing-any-conference)
 
-<!--
+### October 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
+| Cloud Quizing Challenge (Azure) | 8 Oct - 17 Dec 2021 | [Register](https://cc.konfhub.com/?referred_by=7474e26f&referral_mode=email) | Virtual (Free) | IST | |
+| Kubecon North America 2021. | 11-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
+| All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
+| Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
+| Github Universe 2021       | 27, 28 Oct 2021 | [Register](https://githubuniverse.com) | Virtual (Free) | PST | |
+| Azure Community Conference | 29-31 Oct 2021 | [Regoster](https://azconf.dev/) | Virtual (Free) | IST | |
+ 
+### November 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| ISTA 2021                   | 18 Nov 2021     | [Register](https://istacon.org/) | Virtual | | |
 
+### December 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
+| AWS re:Invent 2021          | Dec 2021 | [Register](https://reinvent.awsevents.com/) | Paid | PST | |
+
+### Missing any conference
+Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
+
+## Past Conferences
 ### August 2020
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Call For Papers | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:| -------:|
@@ -151,29 +175,3 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWS Startup Day (Women Founders Edition) | 22 Sep 2021 | [Register](https://pages.awscloud.com/NAMER-field-OE-startup-day-september-2021-reg-event.html?sc_ichannel=ha&sc_icampaign=reg_amersup_7014z000001hq9z&sc_isegment=en&did=ep_card&trk=ep_card-ep_card) | Virtual (Free) | PST | |
 | AWS Summit (Washington DC) | 28, 29 Sep 2021 | [Register](https://aws.amazon.com/events/summits/washington-dc/) | Washington | EST | |
 | AWSome Day                 | 30 Sep 2021 | [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Virtual (Free) | IST | |
-
--->
-### October 2021
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| VM World 2021             | 5-7 Oct 2021   | [Register](https://www.vmworld.com/en/index.html) | Virtual (Free) | PST | |
-| Cloud Quizing Challenge (Azure) | 8 Oct - 17 Dec 2021 | [Register](https://cc.konfhub.com/?referred_by=7474e26f&referral_mode=email) | Virtual (Free) | IST | |
-| Kubecon North America 2021. | 11-15 Oct 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Los Angeles | PST | |
-| All Things Open 2021        | 18, 19 Oct 2021 | [Regiser](https://2021.allthingsopen.org/) | Free + In-person | EST | |
-| Dashcon 2021               | 26, 27 Oct 2021 | [Register](https://www.dashcon.io/) | Virtual (Free) | PST | |
-| Github Universe 2021       | 27, 28 Oct 2021 | [Register](https://githubuniverse.com) | Virtual (Free) | PST | |
-| Azure Community Conference | 29-31 Oct 2021 | [Regoster](https://azconf.dev/) | Virtual (Free) | IST | |
- 
-### November 2021
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| ISTA 2021                   | 18 Nov 2021     | [Register](https://istacon.org/) | Virtual | | |
-
-### December 2021
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
-| AWS re:Invent 2021          | Dec 2021 | [Register](https://reinvent.awsevents.com/) | Paid | PST | |
-
-### Missing any conference
-Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
