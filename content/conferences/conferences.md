@@ -7,7 +7,6 @@ draft: false
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [September 2021](#september-2021)
 - [October 2021](#october-2021)
 - [November 2021](#november-2021)
 - [December 2021](#december-2021)
@@ -142,7 +141,6 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | GitLab Commit Virtual 2021 | 3, 4 Aug 2021 |   [Register](https://hopin.com/events/gitlab-commit-virtual-2021)  | Virtual (Free) | EST | |
 | DevOps India Summit 2021   | 27, 28 Aug 2021 | [Register](https://devopsindiasummit.com/) | Virtual (Free) | IST | |
 
--->
 
 ### September 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
@@ -154,6 +152,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | AWS Summit (Washington DC) | 28, 29 Sep 2021 | [Register](https://aws.amazon.com/events/summits/washington-dc/) | Washington | EST | |
 | AWSome Day                 | 30 Sep 2021 | [Register](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Virtual (Free) | IST | |
 
+-->
 ### October 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
