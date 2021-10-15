@@ -23,7 +23,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | API World 2021.            | 26 - 28 Oct 2021 | [Register](https://apiworld.co/) | Virtual (Chargeable) | PST | |
 | Github Universe 2021       | 27, 28 Oct 2021 | [Register](https://githubuniverse.com) | Virtual (Free) | PST | |
 | All Day DevOps             | 28 Oct 2021     | [Register](https://www.alldaydevops.com/) | Virtual (Free) | PST | |
-| Azure Community Conference | 29-31 Oct 2021 | [Regoster](https://azconf.dev/) | Virtual (Free) | IST | |
+| Azure Community Conference | 29-31 Oct 2021 | [Regoster](https://azconf.dev/referral/859DFA) | Virtual (Free) | IST | |
  
 ### November 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
