@@ -29,12 +29,12 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | ISTA 2021                   | 18 Nov 2021     | [Register](https://istacon.org/) | Virtual | | |
+| AWS re:Invent 2021          | 29 Nov - Dec 3, 2021 | [Register](https://reinvent.awsevents.com/) | Virutal (Free) & In-person (Paid) | PST | |
 
 ### December 2021
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
-| AWS re:Invent 2021          | Dec 2021 | [Register](https://reinvent.awsevents.com/) | Paid | PST | |
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
