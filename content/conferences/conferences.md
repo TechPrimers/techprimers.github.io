@@ -1,6 +1,6 @@
 ---
 title: "Conferences/Workshops"
-date: 2021-10-11
+date: 2021-12-15
 draft: false
 ---
 ## Conferences/Workshops
@@ -28,6 +28,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Dockercon 2022              | 10 May 2021 | [Register](https://www.docker.com/dockercon/) | Virtual | EST | |
 | Kubecon Europe 2022         | 15-20 May 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/) | Virtual(payable) + in-person | GMT | |
+| JFrog SwampUP 2022         | 24-26 May 2021 | [Register](https://swampup.jfrog.com/) |  | EST | |
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
