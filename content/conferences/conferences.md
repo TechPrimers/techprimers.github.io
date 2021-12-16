@@ -10,6 +10,7 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 - [December 2021](#december-2021)
 - [March 2022](#march-2022)
 - [May 2022](#may-2022)
+- [June 2022](#june-2022)
 - [Missing any conference?](#missing-any-conference)
 
 
@@ -29,6 +30,12 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Dockercon 2022              | 10 May 2021 | [Register](https://www.docker.com/dockercon/) | Virtual | EST | |
 | Kubecon Europe 2022         | 15-20 May 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/) | Virtual(payable) + in-person | GMT | |
 | JFrog SwampUP 2022         | 24-26 May 2021 | [Register](https://swampup.jfrog.com/) |  | EST | |
+
+### June 2022
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Kubernetes Community Days Chennai 2022              | 3, 4 June 2022| [Register](https://community.cncf.io/kcd-chennai/) | Virtual | IST | |
+
 
 ### Missing any conference
 Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimers.github.io/tree/master/content/conferences) to add/update conference information.
