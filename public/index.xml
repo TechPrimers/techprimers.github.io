@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechPrimers Open Source</title>
@@ -6,11 +6,7 @@
     <description>Recent content on TechPrimers Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://techprimers.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferences/Workshops</title>
       <link>https://techprimers.github.io/public/conferences/conferences/</link>
@@ -41,7 +37,7 @@ You can find me at
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/sivin/</guid>
-      <description> About me Hello All,
+      <description>About me Hello All,
 I&amp;rsquo;m Sivin
 As expected, I&amp;rsquo;m a Website Designer with a focus on configuring Web applications using Bootstrap and Other web Technologies.
 You can find me at
@@ -80,7 +76,7 @@ My professional background encompasses software development &amp;amp; support, w
       <description>About me Hey Reader! I`m Kaamil Mirza. I am a fresher pursuing B.Tech in Computer Science Information Technology. I am looking forward to contributing in open-source projects. I would like to thank TechPrimers for paving the path for this wonderful journey for me, at least I hope so :).
 My social media as well as professional platforms are the following:
 &amp;lt;
- LinkedIn GitHub SoundCloud Instagram Twitter Spotify Artist  I want to wish you a very good luck with whatever you do in your life</description>
+ LinkedIn GitHub SoundCloud Instagram Twitter Spotify Artist  I want to wish you a very good luck with whatever you do in your life Thank you,</description>
     </item>
     
     <item>
@@ -112,7 +108,7 @@ This is my new commit for the Open Source Contribution Demo.</description>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/sahil/</guid>
-      <description> About me Hello Everyone, I’m Sahil, A Second Year Comps student from Maharashtra , India .
+      <description>About me Hello Everyone, I’m Sahil, A Second Year Comps student from Maharashtra , India .
 Just starting to feel the power of opensource and this is my first step towards openSource. Will be contributing more towards open-source in the future.
 Contact Me  </description>
     </item>
@@ -126,8 +122,8 @@ Contact Me  </description>
       <description>About me Hi All,
 I&amp;rsquo;m Dibs;
 I&amp;rsquo;m an Engineering undergrad working mainly in the domain of web development.This is my fist submission to open source. Currently I&amp;rsquo;m learning Full-stack web development using NodeJS and ReactJS.
-You can find me at: - Github
-Code On!</description>
+You can find me at:
+ Github  Code On!</description>
     </item>
     
     <item>
@@ -136,7 +132,7 @@ Code On!</description>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/linjorejoy/</guid>
-      <description> About me Hi, I’m Linjo, A Mechanical Engineer from Kerala. Just starting to feel the power of opensource and this is my first step towards openSource.
+      <description>About me Hi, I’m Linjo, A Mechanical Engineer from Kerala. Just starting to feel the power of opensource and this is my first step towards openSource.
 Even though I am a Mechanical Engineer, I like coding and a bit of Web development.
 Contact Me  </description>
     </item>
@@ -192,8 +188,7 @@ Happy Programming!!!</description>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/harshitjaiswal27/</guid>
-      <description>Hi there, I&amp;rsquo;m Harshit! 👋 [](https://twitter.com/_harshitjaiswal) [](https://www.linkedin.com/in/harshitjaiswal27/) [](https://www.facebook.com/people/Harshit-Jaiswal/100007037250467) [](https://www.instagram.com/__harshitjaiswal__/) [![Visits Badge](https://badges.pufler.dev/visits/harshitjaiswal27/harshitjaiswal27?style=for-the-badge)](https://github.com/harshitjaiswal27/harshitjaiswal27) I&amp;rsquo;m a Final year undergraduate persuing B.Tech from Walchand college of engineering, Sangli major in Computer Science &amp;amp; Engineering. I am passionate about Competitive Programming and like to code in C++. I like to develope Web applications and fond of using Javascript.
-
+      <description>Hi there, I&amp;rsquo;m Harshit! 👋     
 Languages and Tools:</description>
     </item>
     
@@ -264,7 +259,7 @@ You can also find me at</description>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/shourysharma/</guid>
-      <description> About me Hey everyone, I am Shoury Sharma, Second year undergraduate at NIT-B. Basically i am a Learner and going through Android Development and Web Development. I&amp;rsquo;ve worked on C,Python,R,Kotlin and Javascript
+      <description>About me Hey everyone, I am Shoury Sharma, Second year undergraduate at NIT-B. Basically i am a Learner and going through Android Development and Web Development. I&amp;rsquo;ve worked on C,Python,R,Kotlin and Javascript
 Ambition- To discover more about Android, Linux and Machine Learning.
 Contact-  LinkedIn Github Gmail Instagram  </description>
     </item>
@@ -328,9 +323,7 @@ I&amp;rsquo;m Shubham Vaidya!. I am a MERN Developer, working from the last 1 an
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/khantosif/</guid>
-      <description>Hi there 👋 I&amp;rsquo;m a working with React.js, React Native, Node.js since 2 years. I&amp;rsquo;m exploring new technologies like React360, AWS, Github, Open souce technologies etc. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: linkedin - ⚡ Fun fact: I love to watch movies
-
-Happy Coding!</description>
+      <description>Hi there 👋 I&amp;rsquo;m a working with React.js, React Native, Node.js since 2 years. I&amp;rsquo;m exploring new technologies like React360, AWS, Github, Open souce technologies etc.  💬 Ask me about anything  🌱 I’m currently exploring new technologies  📫 How to reach me: linkedin  ⚡ Fun fact: I love to watch movies  </description>
     </item>
     
     <item>
@@ -341,7 +334,7 @@ Happy Coding!</description>
       <guid>https://techprimers.github.io/public/contributors/hrushikeshdas/</guid>
       <description>About me Hello All,
 I&amp;rsquo;m Hrushikesh Das, a 👨‍💻 full stack Web Developer, 🎨 Graphic Designer, 🖋 Content Writer.Working as a Web Developer Intern at The Renal Project. Work on Linux, React js, PHP, MySQL, Git with GitHub, Adobe Photoshop and many other technologies.Eager to learn technologies and to share. I also have experience of mentorship in &amp;ldquo;Hack in Mountain&amp;rsquo;s&amp;rdquo; hackathon.
-&amp;ldquo;Success has no limits, so don&amp;rsquo;t limit your success.</description>
+&amp;ldquo;Success has no limits, so don&amp;rsquo;t limit your success.&amp;rdquo; - Anonymous</description>
     </item>
     
     <item>
@@ -389,7 +382,8 @@ You can also find me at
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/sanketpathak/</guid>
-      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies. - 💬 Ask me about anything - 🌱 I’m currently exploring new technologies - 📫 How to reach me: sanketpathak64@gmail.</description>
+      <description>Hi there 👋 I&amp;rsquo;m Sanket Pathak I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms. Worked with Open Source technologies like docker, git, ethereum. Interested in learning new Technologies.
+ 💬 Ask me about anything 🌱 I’m currently exploring new technologies 📫 How to reach me: sanketpathak64@gmail.com ⚡ Fun fact: I love to watch anime   Connect with me:       Languages and Tools: </description>
     </item>
     
     <item>
@@ -414,8 +408,8 @@ You can reach me at:
       <description>About me Hello All,
 I&amp;rsquo;m Darshan R.
 I am a Engineering student. By passion I&amp;rsquo;m learning coding. I&amp;rsquo;m interested to cotribute to the open source. This is my first contribution to the open source.
-You can find me at - LinkedIn - Github - Twitter - Gmail
-Happy Coding!</description>
+You can find me at
+ LinkedIn Github Twitter Gmail  Happy Coding!</description>
     </item>
     
     <item>
@@ -468,7 +462,8 @@ You can find me at
 My name is Wilmer Zuna.
 I&amp;rsquo;m a Stanford Undergraduate student studying Computer Science. During my free time, I love to learn new things and experiment with new concepts and/or ideas that will help me improve both as a scholar and as a professional.
 My favorite languages are Python and C++. I also love teaching.
-My social media as well as professional platforms are the following:</description>
+My social media as well as professional platforms are the following:
+ LinkedIn GitHub Facebook Instagram Twitter  I hope that you are doing well during these times of challenge and resilience.</description>
     </item>
     
     <item>
@@ -490,7 +485,7 @@ You can find me at
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/vatsal/</guid>
-      <description> About me Hello All,
+      <description>About me Hello All,
 I&amp;rsquo;m Vatsal Bhatnagar . I am a java developer. I am new to open source.
 You can find me at:-
  Github  </description>
@@ -642,8 +637,8 @@ You can find me at
 I am Srikanth Ac.
 I am web developer currently working in vue.js in Bangalore.I love JavaScript .
 Interests Include Cricket , Football and Formula 1.
-You can find me at - Github
-Cheers!</description>
+You can find me at
+ Github  Cheers!</description>
     </item>
     
     <item>
@@ -708,8 +703,8 @@ When I&amp;rsquo;m exploring new tools and technology , I learned by self intere
       <description>About me Hello All,
 I&amp;rsquo;m Anshu. Currently, I&amp;rsquo;m an undergraduate studate pursuing B.Tech in Computer Science and Engineering at IIIT Kalyani.
 I&amp;rsquo;m a web developer. I actively contribute to Open Source Organizations to gain experience in software development field.
-You can find me at: - Github - Linkedin - Gmail
-Happy Coding!</description>
+You can find me at:
+ Github Linkedin Gmail  Happy Coding!</description>
     </item>
     
     <item>
@@ -896,7 +891,7 @@ I&amp;rsquo;m student in 2nd year CSE, having done Competitive programming durin
       <description>About me Hi, I’m Jigar, I am MEAN Stack Developer with 2+ years of experience. I have recently started for Searching for Open Source Projects in which I can contribute.
 Apart from Coding, I like to travel and meet New people.
 You can find me at these places but the most reliable way to reach me is to send an email.
-- LinkedIn - Github - Gmail</description>
+ LinkedIn Github Gmail  </description>
     </item>
     
     <item>
@@ -1027,7 +1022,8 @@ Myself Virendra Yadav,
 I am Technical Architect and for past 14+ Years I am working on technologies. I am also Co-Founder of company www.bigperl.com, which builds web, mobile apps &amp;amp; IoT based solutions.
 I love keep myself updated with upcoming technologies and TechPrimers is one of the right channels I follow.
 Mostly I work on Java/Jee/Spring/Android Native/Swift/AWS based backend technologies.
-You can find me at</description>
+You can find me at
+ LinkedIn Github Blog Gmail  Cheers!</description>
     </item>
     
     <item>
@@ -1148,7 +1144,7 @@ Since then I have learnt, written and shared lots of code in Github. This reposi
       <description>About me Hey Open Sorceres (pun intended),
 I&amp;rsquo;m Rai Ansar, 5th semester Student of Software Engineering.
 I&amp;rsquo;m Flutter App Developer with 6 months of experience and 3 years of IT industry experience. Other than Flutter I&amp;rsquo;ve worked on Java, Python, MySQL and many other technologies.
-Interestingly, I want to be a Cloud NATIVE Computing Dev/Engineer.  You can find me at
+Interestingly, I want to be a Cloud NATIVE Computing Dev/Engineer. You can find me at
  Github LinkedIn e-Mail Me  Salut!</description>
     </item>
     
@@ -1167,13 +1163,22 @@ You can find me at
     
     <item>
       <title></title>
+      <link>https://techprimers.github.io/public/contributors/arjun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techprimers.github.io/public/contributors/arjun/</guid>
+      <description>title: &amp;ldquo;Arjun&amp;rdquo; date: 2022-03-11 draft: false About me I am a qualified Electronics Engineer (B.Tech) having an work experience of 8 years with companies. Besides this, I am also registered on other tutoring platforms where I pursue my hobby of tutoring and answering questions of students.
+My professional background encompasses software development &amp;amp; support, wrinting React,performing daily tasks , learning new technologies.I have knowledge on HTML CSS Bootstrap JAva C C++ reactjs .</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://techprimers.github.io/public/contributors/bhari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/bhari/</guid>
       <description>hi im shashank bhari new
-title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18
-draft: false About me Hello All,
+ title: &amp;ldquo;Shashank Bhari&amp;rdquo; date: 2019-10-18 draft: false About me Hello All,
 I&amp;rsquo;m Shashank Bhari. I&amp;rsquo;m new to open source world.</description>
     </item>
     
@@ -1195,7 +1200,7 @@ Thanks!!</description>
       
       <guid>https://techprimers.github.io/public/contributors/sooraj_jha/</guid>
       <description>title: &amp;ldquo;Sooraj Jha&amp;rdquo; date: 10-01-2021
-About me Hello All,
+ About me Hello All,
 My name is Soraj jha and pursing my Bachelor’s Degree from DAV college Hoshiarpur in Computer Apllication from sept 2020. I am currently in 1st Year. This is my first Contribution To an Open source Project.All thanks to TechPrimers.
 You can find me at
  Instagram Github Gmail  Thank You</description>
@@ -1207,7 +1212,7 @@ You can find me at
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techprimers.github.io/public/contributors/ajithraja/</guid>
-      <description> About me Hello All,
+      <description>About me Hello All,
 I&amp;rsquo;m Ajithraja Balaraman. I work as a Java developer. To know more about me you can visit my linkedIn and github profile attached below. Have a good day.
  LinkedIn Github  </description>
     </item>
