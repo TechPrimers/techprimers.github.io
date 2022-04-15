@@ -1,34 +1,27 @@
 ---
 title: "Conferences/Workshops"
-date: 2021-12-15
+date: 2022-04-15
 draft: false
 ---
 ## Conferences/Workshops
 List of conferences/workshops which are relevant and useful for Tech enthusiasts and practitioners.
 
 ## Table of Contents
-- [December 2021](#december-2021)
-- [March 2022](#march-2022)
+- [Ongoing events](#ongoing-events)
 - [May 2022](#may-2022)
 - [June 2022](#june-2022)
 - [Missing any conference?](#missing-any-conference)
 
-
-### December 2021
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
-
-### March 2022
-| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
-| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
-| The Devops Conference 2022              | 8, 9 March 2022 | [Register](https://www.thedevopsconference.com/) | Virtual(Free) | GMT | |
+### Ongoing events
+| Event | Link |
+| -------| ------|
+| CNCF Kubecon Events | https://www.cncf.io/kubecon-cloudnativecon-events/ |
 
 ### May 2022
 | Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | Dockercon 2022              | 10 May 2021 | [Register](https://www.docker.com/dockercon/) | Virtual | EST | |
-| Kubecon Europe 2022         | 15-20 May 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/) | Virtual(payable) + in-person | GMT | |
+| Kubecon Europe 2022         | 16-20 May 2021 | [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/) | Virtual(payable) + in-person | Spain, GMT | |
 | JFrog SwampUP 2022         | 24-26 May 2021 | [Register](https://swampup.jfrog.com/) |  | EST | |
 
 ### June 2022
@@ -197,3 +190,14 @@ Do raise a pull request to this [repo](https://github.com/TechPrimers/techprimer
 | -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
 | ISTA 2021                   | 18 Nov 2021     | [Register](https://istacon.org/) | Virtual | | |
 | AWS re:Invent 2021          | 29 Nov - Dec 3, 2021 | [Register](https://reinvent.awsevents.com/) | Virutal (Free) & In-person (Paid) | PST | |
+
+### December 2021
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| Gophercon 2021              | 5-8 Dec 2021 | [Register](https://www.gophercon.com/) | | PST | |
+
+### March 2022
+| Conference/Workshop         | Date            | Link  | Mode | Region / TimeZone  | Comments
+| -------------               |:---------------:|:-----:|:----:|:---------:|:-------:|
+| The Devops Conference 2022              | 8, 9 March 2022 | [Register](https://www.thedevopsconference.com/) | Virtual(Free) | GMT | |
+
