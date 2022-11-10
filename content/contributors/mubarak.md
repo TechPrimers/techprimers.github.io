@@ -1,21 +1,21 @@
 
 ---
 title: "mubarak sadiqa"
-date: 2020-02-17
-draft: true
+date: 2022-10-11
+draft: false
 ---
 
 ## About me
 Hello All,
 
-I'm Abhishek Gupta.
+I'm  mubarak sadiqa.
 
-My name is Abhishek Gupta and pursing my Bachelor’s Degree from Vellore institute of technology in Computer Science and Engineering and currently in fourth year.
+My name is  mubarak sadiqa  BE graduate and pursing my master degree from university of arizona in Data Science 
 
 You can find me at
 
- - [*LinkedIn*](https://www.linkedin.com/in/abhishek-gupta-635171175/)
- - [*Github*](https://github.com/abhishekgupta368)
- - [*Gmail*](mailto:abhigupta9087@gmail.com)
+ - [*LinkedIn*](http://linkedin.com/in/mubarak-sadiqa-29341616a)
+ - [*Github*](https://github.com/Saaadiiiqaaa)
+ - [*Gmail*](sadiqamubarak7@gmail.com@gmail.com)
 
 Thank You
