@@ -1,4 +1,3 @@
-
 ---
 title: "Anshul Anand"
 date: 2022-11-11
