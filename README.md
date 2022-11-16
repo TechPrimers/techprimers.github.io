@@ -49,7 +49,7 @@ When you contribute to the project, you can add your signature. Create a new Mar
 
 ## Hugo Installation
 
-[Hugo](https://gohugo.io/)  is a required dependancy for this project. Follow the [article to install](https://gohugo.io/getting-started/installing/) the dependancy.
+[Hugo](https://gohugo.io/) is a required dependancy for this project. Follow the [article to install](https://gohugo.io/getting-started/installing/) the dependancy.
 
 ## Preview the Site Locally
 
